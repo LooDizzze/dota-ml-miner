@@ -1,0 +1,4661 @@
+[
+  {
+    "hero": "Abaddon",
+    "abilities": [
+      {
+        "spell": "Mist Coil",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Aphotic Shield",
+        "tags": [
+          "strong_dispel","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Curse of Avernus",
+        "tags": []
+      },
+      {
+        "spell": "Withering Mist",
+        "tags": []
+      },
+      {
+        "spell": "Borrowed Time",
+        "tags": [
+          "hard_save",
+          "strong_dispel"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Alchemist",
+    "abilities": [
+      {
+        "spell": "Acid Spray",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Unstable Concoction",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Corrosive Weaponry",
+        "tags": []
+      },
+      {
+        "spell": "Berserk Potion",
+        "tags": ["basic_dispel"]
+      },
+      {
+        "spell": "Greevil's Greed",
+        "tags": []
+      },
+      {
+        "spell": "Chemical Rage",
+        "tags": []
+      },
+      {
+        "spell": "Unstable Concoction Throw",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ancient Apparition",
+    "abilities": [
+      {
+        "spell": "Cold Feet",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Ice Vortex",
+        "tags": [
+          "lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Chilling Touch",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Death Rime",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Blast",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Release",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Anti-Mage",
+    "abilities": [
+      {
+        "spell": "Mana Break",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Blink",
+        "tags": [
+          "initiation",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Counterspell",
+        "tags": [
+          "late_game_scaling","elusive"
+        ]
+      },
+      {
+        "spell": "Persecutor",
+        "tags": []
+      },
+      {
+        "spell": "Mana Void",
+        "tags": [
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Arc Warden",
+    "abilities": [
+      {
+        "spell": "Flux",
+        "tags": []
+      },
+      {
+        "spell": "Magnetic Field",
+        "tags": [
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Spark Wraith",
+        "tags": []
+      },
+      {
+        "spell": "Runic Infusion",
+        "tags": []
+      },
+      {
+        "spell": "Tempest Double",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Axe",
+    "abilities": [
+      {
+        "spell": "Berserker's Call",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Battle Hunger",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Counter Helix",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Culling Blade",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Coat of Blood",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Bane",
+    "abilities": [
+      {
+        "spell": "Enfeeble",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Brain Sap",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Nightmare",
+        "tags": ["hard_save","initiation","lane_dominator"]
+      },
+      {
+        "spell": "Fiend's Grip",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nightmare End",
+        "tags": []
+      },
+      {
+        "spell": "Ichor of Nyctasha",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Batrider",
+    "abilities": [
+      {
+        "spell": "Sticky Napalm",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Flamebreak",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Firefly",
+        "tags": ["initiation","waveclear","lane_dominator"]
+      },
+      {
+        "spell": "APPLICATION DAMAGE:",
+        "tags": []
+      },
+      {
+        "spell": "Smoldering Resin",
+        "tags": []
+      },
+      {
+        "spell": "Flaming Lasso",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Beastmaster",
+    "abilities": [
+      {
+        "spell": "Wild Axes",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Call of the Wild Boar",
+        "tags": [
+          "push_zoo"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Call of the Wild Hawk",
+        "tags": [],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Inner Beast",
+        "tags": ["early_rosh_solo"]
+      },
+      {
+        "spell": "Drums of Slom",
+        "tags": ["early_rosh_solo"]
+      },
+      {
+        "spell": "Primal Roar",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Rugged",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Bloodseeker",
+    "abilities": [
+      {
+        "spell": "Bloodrage",
+        "tags": []
+      },
+      {
+        "spell": "Blood Rite",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Thirst",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Sanguivore",
+        "tags": []
+      },
+      {
+        "spell": "Rupture",
+        "tags": [
+          "bkb_pierce_single","pseudo_root"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Bounty Hunter",
+    "abilities": [
+      {
+        "spell": "Shuriken Toss",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Jinada",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Shadow Walk",
+        "tags": [
+          "invisibility",
+          "elusive", "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Friendly Shadow",
+        "tags": [
+          "invisibility","vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Big Game Hunter",
+        "tags": []
+      },
+      {
+        "spell": "Track",
+        "tags": [
+          "invisibility",
+          "vision_scouting","initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Brewmaster",
+    "abilities": [
+      {
+        "spell": "Thunder Clap",
+        "tags": ["waveclear", "lane_dominator"]
+      },
+      {
+        "spell": "Cinder Brew",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Drunken Brawler",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Liquid Courage",
+        "tags": []
+      },
+      {
+        "spell": "Primal Split",
+        "tags":[]
+      }
+    ]
+  },
+  {
+    "hero": "Bristleback",
+    "abilities": [
+      {
+        "spell": "Viscous Nasal Goo",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Quill Spray",
+        "tags": [
+          "lane_dominator",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Bristleback",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Hairball",
+        "tags": ["initiation","waveclear"]
+      },
+      {
+        "spell": "Warpath",
+        "tags": []
+      },
+      {
+        "spell": "Prickly",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Broodmother",
+    "abilities": [
+      {
+        "spell": "Insatiable Hunger",
+        "tags": []
+      },
+      {
+        "spell": "Spin Web",
+        "tags": ["lane_dominator"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Incapacitating Bite",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Spinner's Snare",
+        "tags": []
+      },
+      {
+        "spell": "Spider's Milk",
+        "tags": []
+      },
+      {
+        "spell": "Spawn Spiderlings",
+        "tags": [
+          "push_zoo","burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Centaur Warrunner",
+    "abilities": [
+      {
+        "spell": "Hoof Stomp",
+        "tags": [
+          "initiation", "waveclear"
+        ]
+      },
+      {
+        "spell": "Double Edge",
+        "tags": ["waveclear", "burst_damage"]
+      },
+      {
+        "spell": "Retaliate",
+        "tags": []
+      },
+      {
+        "spell": "Work Horse",
+        "tags": ["hard_save"]
+      },
+      {
+        "spell": "Hitch A Ride",
+        "tags": [
+          "hard_save"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Stampede",
+        "tags": [
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Rawhide",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Chaos Knight",
+    "abilities": [
+      {
+        "spell": "Chaos Bolt",
+        "tags": []
+      },
+      {
+        "spell": "Reality Rift",
+        "tags": [
+          "early_rosh_armor",
+          "initiation",
+          "forced_reposition_enemy"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Chaos Strike",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Reins of Chaos",
+        "tags": []
+      },
+      {
+        "spell": "Phantasm",
+        "tags": [
+          "basic_dispel", "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Chen",
+    "abilities": [
+      {
+        "spell": "Penitence",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Holy Persuasion",
+        "tags": [
+          "push_zoo",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Divine Favor",
+        "tags": []
+      },
+      {
+        "spell": "Summon Convert",
+        "tags": []
+      },
+      {
+        "spell": "Hand of God",
+        "tags": ["mass_heal"]
+      }
+    ]
+  },
+  {
+    "hero": "Clinkz",
+    "abilities": [
+      {
+        "spell": "Strafe",
+        "tags": ["lane_dominator"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Searing Arrows",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Death Pact",
+        "tags": []
+      },
+      {
+        "spell": "Burning Barrage",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Burning Army",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Skeleton Walk",
+        "tags": [
+          "invisibility","initiation", "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Infernal Shred",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Clockwerk",
+    "abilities": [
+      {
+        "spell": "Battery Assault",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Power Cogs",
+        "tags": ["lane_dominator", "pseudo_root"]
+      },
+      {
+        "spell": "Rocket Flare",
+        "tags": [
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Overclocking",
+        "tags": []
+      },
+      {
+        "spell": "Jetpack",
+        "tags": []
+      },
+      {
+        "spell": "Hookshot",
+        "tags": [
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Armor Power",
+        "tags": []
+      },
+      {
+        "spell": "Jetpack Toggle",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Crystal Maiden",
+    "abilities": [
+      {
+        "spell": "Crystal Nova",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Frostbite",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Arcane Aura",
+        "tags": []
+      },
+      {
+        "spell": "Crystal Clone",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Blueheart Floe",
+        "tags": []
+      },
+      {
+        "spell": "Freezing Field",
+        "tags": []
+      },
+      {
+        "spell": "Stop Freezing Field",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Dark Seer",
+    "abilities": [
+      {
+        "spell": "Vacuum",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Ion Shell",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Surge",
+        "tags": ["initiation","elusive"]
+      },
+      {
+        "spell": "Normal Punch",
+        "tags": []
+      },
+      {
+        "spell": "Aggrandize",
+        "tags": []
+      },
+      {
+        "spell": "Wall of Replica",
+        "tags": ["initiation"]
+      }
+    ]
+  },
+  {
+    "hero": "Dark Willow",
+    "abilities": [
+      {
+        "spell": "Bramble Maze",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Shadow Realm",
+        "tags": [
+          "hard_save","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Cursed Crown",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Bedlam",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Pixie Dust",
+        "tags": [],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Terrorize",
+        "tags": ["forced_reposition_enemy"]
+      }
+    ]
+  },
+  {
+    "hero": "Dawnbreaker",
+    "abilities": [
+      {
+        "spell": "Starbreaker",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Celestial Hammer",
+        "tags": ["waveclear", "initiation"]
+      },
+      {
+        "spell": "Luminosity",
+        "tags": []
+      },
+      {
+        "spell": "Converge",
+        "tags": []
+      },
+      {
+        "spell": "Break of Dawn",
+        "tags": []
+      },
+      {
+        "spell": "Solar Guardian",
+        "tags": [
+          "global_mobility",
+          "mass_heal",
+          "bkb_pierce_aoe"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Dawnbreaker Land",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Dazzle",
+    "abilities": [
+      {
+        "spell": "Poison Touch",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shallow Grave",
+        "tags": [
+          "hard_save"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Shadow Wave",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Weave",
+        "tags": []
+      },
+      {
+        "spell": "Nothl Projection",
+        "tags": [],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "End Projection",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Death Prophet",
+    "abilities": [
+      {
+        "spell": "Crypt Swarm",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Silence",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Spirit Siphon",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Witchcraft",
+        "tags": []
+      },
+      {
+        "spell": "Exorcism",
+        "tags": [
+          "push_cooldown"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Disruptor",
+    "abilities": [
+      {
+        "spell": "Thunder Strike",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Glimpse",
+        "tags": ["forced_reposition_enemy","initiation"]
+      },
+      {
+        "spell": "Kinetic Field",
+        "tags": ["pseudo_root"]
+      },
+      {
+        "spell": "Electromagnetic Repulsion",
+        "tags": []
+      },
+      {
+        "spell": "Static Storm",
+        "tags": [
+          "initiation","late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Doom",
+    "abilities": [
+      {
+        "spell": "Devour",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Scorched Earth",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Infernal Blade",
+        "tags": ["initiation", "late_game_scaling"]
+      },
+      {
+        "spell": "Devoured Ability",
+        "tags": []
+      },
+      {
+        "spell": "Devoured Ability",
+        "tags": []
+      },
+      {
+        "spell": "Doom",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation", "late_game_scaling"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Lvl ? Pain",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Dragon Knight",
+    "abilities": [
+      {
+        "spell": "Breathe Fire",
+        "tags": [
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Dragon Tail",
+        "tags": [
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Wyrm's Wrath",
+        "tags": [
+          "push_poke"
+        ],
+        "note": "requires corrosive dragon facet"
+      },
+      {
+        "spell": "Fireball",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Elder Dragon Form",
+        "tags": ["waveclear","push_poke", "lane_dominator","initiation"]
+      },
+      {
+        "spell": "Dragon Blood",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Drow Ranger",
+    "abilities": [
+      {
+        "spell": "Frost Arrows",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Gust",
+        "tags": ["elusive"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Multishot",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Glacier",
+        "tags": []
+      },
+      {
+        "spell": "Precision Aura",
+        "tags": []
+      },
+      {
+        "spell": "Marksmanship",
+        "tags": [
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Earth Spirit",
+    "abilities": [
+      {
+        "spell": "Boulder Smash",
+        "tags": [
+          "reposition_save",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Rolling Boulder",
+        "tags": [
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Geomagnetic Grip",
+        "tags": [
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Stone Remnant",
+        "tags": [
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Enchant Remnant",
+        "tags": ["hard_save"]
+      },
+      {
+        "spell": "Magnetize",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Earthshaker",
+    "abilities": [
+      {
+        "spell": "Fissure",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Enchant Totem",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Aftershock",
+        "tags": []
+      },
+      {
+        "spell": "Echo Slam",
+        "tags": [
+          "initiation","burst_damage"
+        ]
+      },
+      {
+        "spell": "Slugger",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Elder Titan",
+    "abilities": [
+      {
+        "spell": "Echo Stomp",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Astral Spirit",
+        "tags": ["vision_scouting","initiation"]
+      },
+      {
+        "spell": "Natural Order",
+        "tags": [
+          "early_rosh_armor"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Move Astral Spirit",
+        "tags": []
+      },
+      {
+        "spell": "Earth Splitter",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Return Astral Spirit",
+        "tags": []
+      },
+      {
+        "spell": "Tip the Scales",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ember Spirit",
+    "abilities": [
+      {
+        "spell": "Searing Chains",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Sleight of Fist",
+        "tags": [
+          "elusive",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Flame Guard",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Activate Fire Remnant",
+        "tags": []
+      },
+      {
+        "spell": "Immolation",
+        "tags": []
+      },
+      {
+        "spell": "Fire Remnant",
+        "tags": [
+          "elusive", "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Enchantress",
+    "abilities": [
+      {
+        "spell": "Impetus",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Enchant",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Nature's Attendants",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Sproink",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Little Friends",
+        "tags": []
+      },
+      {
+        "spell": "Untouchable",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Rabble-Rouser",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Enigma",
+    "abilities": [
+      {
+        "spell": "Malefice",
+        "tags": []
+      },
+      {
+        "spell": "Demonic Summoning",
+        "tags": [
+          "push_zoo","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Midnight Pulse",
+        "tags": []
+      },
+      {
+        "spell": "Gravity Well",
+        "tags": []
+      },
+      {
+        "spell": "Black Hole",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Faceless Void",
+    "abilities": [
+      {
+        "spell": "Time Walk",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Time Dilation",
+        "tags": []
+      },
+      {
+        "spell": "Time Lock",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Reverse Time Walk",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Distortion Field",
+        "tags": []
+      },
+      {
+        "spell": "Chronosphere",
+        "tags": [
+          "initiation",
+          "bkb_pierce_aoe",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Time Zone",
+        "tags": [
+          "initiation",
+          "bkb_pierce_aoe"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Grimstroke",
+    "abilities": [
+      {
+        "spell": "Stroke of Fate",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Phantom's Embrace",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Ink Swell",
+        "tags": [
+          "basic_dispel",
+          "initiation", "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Dark Portrait",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Ink Explosion",
+        "tags": []
+      },
+      {
+        "spell": "Soulbind",
+        "tags": [
+          "initiation",
+          "pseudo_root","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Ink Trail",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Gyrocopter",
+    "abilities": [
+      {
+        "spell": "Rocket Barrage",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Homing Missile",
+        "tags": []
+      },
+      {
+        "spell": "Flak Cannon",
+        "tags": [
+          "late_game_scaling", "waveclear", "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Chop Shop",
+        "tags": []
+      },
+      {
+        "spell": "Call Down",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Hoodwink",
+    "abilities": [
+      {
+        "spell": "Acorn Shot",
+        "tags": ["lane_dominator","initiation"]
+      },
+      {
+        "spell": "Bushwhack",
+        "tags": [
+          "initiation", "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Scurry",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Decoy",
+        "tags": [
+          "invisibility","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Hunter's Boomerang",
+        "tags": [
+          "vision_scouting","initiation"
+        ]
+      },
+      {
+        "spell": "Sharpshooter",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "End Sharpshooter",
+        "tags": []
+      },
+      {
+        "spell": "Mistwoods Wayfarer",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Huskar",
+    "abilities": [
+      {
+        "spell": "Inner Fire",
+        "tags": ["initiation","elusive"]
+      },
+      {
+        "spell": "Burning Spear",
+        "tags": [
+          "early_rosh_solo",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Berserker's Blood",
+        "tags": [
+          "early_rosh_solo", "lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Blood Magic",
+        "tags": []
+      },
+      {
+        "spell": "Life Break",
+        "tags": ["burst_damage","late_game_scaling"]
+      }
+    ]
+  },
+  {
+    "hero": "Invoker",
+    "abilities": [
+      {
+        "spell": "Quas",
+        "tags": []
+      },
+      {
+        "spell": "Wex",
+        "tags": []
+      },
+      {
+        "spell": "Exort",
+        "tags": []
+      },
+      {
+        "spell": "Invoked Spell",
+        "tags": []
+      },
+      {
+        "spell": "Invoked Spell",
+        "tags": []
+      },
+      {
+        "spell": "Invoke",
+        "tags": []
+      },
+      {
+        "spell": "Cold Snap",
+        "tags": [
+          "initiation","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ghost Walk",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Tornado",
+        "tags": ["waveclear","initiation","pseudo_root"]
+      },
+      {
+        "spell": "E.M.P.",
+        "tags": [
+          "initiation",
+          "lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Alacrity",
+        "tags": [
+          "waveclear","early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Chaos Meteor",
+        "tags": [
+          "waveclear","burst_damage"
+        ]
+      },
+      {
+        "spell": "Sun Strike",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Forge Spirit",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Ice Wall",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Deafening Blast",
+        "tags": ["waveclear"]
+      }
+    ]
+  },
+  {
+    "hero": "Io",
+    "abilities": [
+      {
+        "spell": "Tether",
+        "tags": ["lane_dominator","elusive"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Spirits",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Overcharge",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Spirits In",
+        "tags": []
+      },
+      {
+        "spell": "Spirits Out",
+        "tags": []
+      },
+      {
+        "spell": "Relocate",
+        "tags": [
+          "global_mobility",
+          "reposition_save"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Break Tether",
+        "tags": []
+      },
+      {
+        "spell": "Wellspring",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Jakiro",
+    "abilities": [
+      {
+        "spell": "Dual Breath",
+        "tags": [
+          "waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Path",
+        "tags": ["initiation","lane_dominator"]
+      },
+      {
+        "spell": "Liquid Fire",
+        "tags": [
+          "push_poke",
+          "waveclear", "lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Liquid Frost",
+        "tags": [
+          "push_poke","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Double Trouble",
+        "tags": []
+      },
+      {
+        "spell": "Macropyre",
+        "tags": [
+          "lane_dominator",
+          "waveclear"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Juggernaut",
+    "abilities": [
+      {
+        "spell": "Blade Fury",
+        "tags": [
+          "strong_dispel","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Healing Ward",
+        "tags": [
+          "mass_heal","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Blade Dance",
+        "tags": [
+          "late_game_scaling","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Swiftslash",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Duelist",
+        "tags": []
+      },
+      {
+        "spell": "Omnislash",
+        "tags": [
+          "hard_save","burst_damage"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Keeper of the Light",
+    "abilities": [
+      {
+        "spell": "Illuminate",
+        "tags": [
+          "mass_heal",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Blinding Light",
+        "tags": [
+          "forced_reposition_enemy","elusive"
+        ]
+      },
+      {
+        "spell": "Chakra Magic",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Will-O-Wisp",
+        "tags": [
+          "pseudo_root"
+        ]
+      },
+      {
+        "spell": "Spirit Form",
+        "tags": []
+      },
+      {
+        "spell": "Release Illuminate",
+        "tags": []
+      },
+      {
+        "spell": "Special Reserve",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Kez",
+    "abilities": [
+      {
+        "spell": "Echo Slash",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Grappling Claw",
+        "tags": [
+          "elusive","initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Kazurai Katana",
+        "tags": [
+          "late_game_scaling","burst_damage", "waveclear"
+        ]
+      },
+      {
+        "spell": "Switch Discipline",
+        "tags": []
+      },
+      {
+        "spell": "Raptor Dance",
+        "tags": [
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Falcon Rush",
+        "tags": []
+      },
+      {
+        "spell": "Talon Toss",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Shodo Sai",
+        "tags": [
+          "bkb_pierce_single",
+          "hard_save",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Raven's Veil",
+        "tags": [
+          "invisibility",
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Cancel",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Kunkka",
+    "abilities": [
+      {
+        "spell": "Torrent",
+        "tags": ["pseudo_root"]
+      },
+      {
+        "spell": "Tidebringer",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "X Marks the Spot",
+        "tags": [
+          "forced_reposition_enemy","pseudo_root","initiation"
+        ]
+      },
+      {
+        "spell": "Admiral's Rum",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Tidal Wave",
+        "tags": ["forced_reposition_enemy","initiation"]
+      },
+      {
+        "spell": "Ghostship",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Return",
+        "tags": ["forced_reposition_enemy"]
+      }
+    ]
+  },
+  {
+    "hero": "Largo",
+    "abilities": [
+      {
+        "spell": "Catchy Lick",
+        "tags": [
+          "basic_dispel",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Frogstomp",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Croak of Genius",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Encore",
+        "tags": []
+      },
+      {
+        "spell": "Amphibian Rhapsody",
+        "tags": []
+      },
+      {
+        "spell": "Bullbelly Blitz",
+        "tags": []
+      },
+      {
+        "spell": "Hotfeet Hustle",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Island Elixir",
+        "tags": [
+          "mass_heal"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Legion Commander",
+    "abilities": [
+      {
+        "spell": "Overwhelming Odds",
+        "tags": ["waveclear","burst_damage"]
+      },
+      {
+        "spell": "Press The Attack",
+        "tags": [
+          "strong_dispel"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Moment of Courage",
+        "tags": [
+          "late_game_scaling", "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Outfight Them!",
+        "tags": []
+      },
+      {
+        "spell": "Duel",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Leshrac",
+    "abilities": [
+      {
+        "spell": "Split Earth",
+        "tags": [
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Diabolic Edict",
+        "tags": [
+          "waveclear", "burst_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Lightning Storm",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Nihilism",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Defilement",
+        "tags": []
+      },
+      {
+        "spell": "Pulse Nova",
+        "tags": [
+          "waveclear","burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lich",
+    "abilities": [
+      {
+        "spell": "Frost Blast",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Frost Shield",
+        "tags": [
+          "hard_save","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Sinister Gaze",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Ice Spire",
+        "tags": []
+      },
+      {
+        "spell": "Death Charge",
+        "tags": []
+      },
+      {
+        "spell": "Chain Frost",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Lifestealer",
+    "abilities": [
+      {
+        "spell": "Rage",
+        "tags": [
+          "strong_dispel",
+          "late_game_scaling","elusive","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Open Wounds",
+        "tags": []
+      },
+      {
+        "spell": "Ghoul Frenzy",
+        "tags": []
+      },
+      {
+        "spell": "Feast",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Infest",
+        "tags": [
+          "basic_dispel",
+          "mass_heal","elusive"
+        ]
+      },
+      {
+        "spell": "Consume",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Lina",
+    "abilities": [
+      {
+        "spell": "Dragon Slave",
+        "tags": [
+          "waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Light Strike Array",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Fiery Soul",
+        "tags": ["waveclear","push_poke","lane_dominator"]
+      },
+      {
+        "spell": "Flame Cloak",
+        "tags": ["initiation", "burst_damage"]
+      },
+      {
+        "spell": "Combustion",
+        "tags": []
+      },
+      {
+        "spell": "Laguna Blade",
+        "tags": ["burst_damage"],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Lion",
+    "abilities": [
+      {
+        "spell": "Earth Spike",
+        "tags": [
+          "waveclear","initiation","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Hex",
+        "tags": [
+          "initiation","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Mana Drain",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "To Hell and Back",
+        "tags": []
+      },
+      {
+        "spell": "Finger of Death",
+        "tags": ["burst_damage"],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Lone Druid",
+    "abilities": [
+      {
+        "spell": "Entangle",
+        "tags": [
+          "bkb_pierce_single","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Spirit Link",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Savage Roar",
+        "tags": ["initiation","elusive"]
+      },
+      {
+        "spell": "Summon Spirit Bear",
+        "tags": [
+          "early_rosh_solo",
+          "push_zoo", "lane_dominator","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "True Form",
+        "tags": ["elusive"]
+      }
+    ]
+  },
+  {
+    "hero": "Luna",
+    "abilities": [
+      {
+        "spell": "Lucent Beam",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Lunar Orbit",
+        "tags": ["elusive","waveclear"]
+      },
+      {
+        "spell": "Moon Glaives",
+        "tags": [
+          "late_game_scaling","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lunar Blessing",
+        "tags": [
+          "vision_scouting",
+          "late_game_scaling"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Eclipse",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Lycan",
+    "abilities": [
+      {
+        "spell": "Summon Wolves",
+        "tags": [
+          "vision_scouting",
+          "push_zoo","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Howl",
+        "tags": [
+          "early_rosh_armor","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Feral Impulse",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Wolf Bite",
+        "tags": [
+          "late_game_scaling","initiation"
+        ]
+      },
+      {
+        "spell": "Apex Predator",
+        "tags": []
+      },
+      {
+        "spell": "Shapeshift",
+        "tags": ["initiation","elusive"]
+      }
+    ]
+  },
+  {
+    "hero": "Magnus",
+    "abilities": [
+      {
+        "spell": "Shockwave",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Empower",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Skewer",
+        "tags": [
+          "forced_reposition_enemy",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Horn Toss",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Solid Core",
+        "tags": []
+      },
+      {
+        "spell": "Reverse Polarity",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation",
+          "forced_reposition_enemy"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Marci",
+    "abilities": [
+      {
+        "spell": "Dispose",
+        "tags": [
+          "forced_reposition_enemy","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Rebound",
+        "tags": [
+          "reposition_save",
+          "initiation","waveclear"
+        ],
+        "note": "requires pick-me-up facet"
+      },
+      {
+        "spell": "Bodyguard",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Special Delivery",
+        "tags": []
+      },
+      {
+        "spell": "Unleash",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Mars",
+    "abilities": [
+      {
+        "spell": "Spear of Mars",
+        "tags": [
+          "forced_reposition_enemy",
+          "initiation","waveclear"
+        ]
+      },
+      {
+        "spell": "God's Rebuke",
+        "tags": [
+          "initiation","waveclear"
+        ]
+      },
+      {
+        "spell": "Bulwark",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Dauntless",
+        "tags": []
+      },
+      {
+        "spell": "Arena Of Blood",
+        "tags": [
+          "mass_heal",
+          "initiation"
+        ],
+        "note": "requires victory feast facet"
+      }
+    ]
+  },
+  {
+    "hero": "Medusa",
+    "abilities": [
+      {
+        "spell": "Split Shot",
+        "tags": [
+          "late_game_scaling","waveclear"
+        ]
+      },
+      {
+        "spell": "Mystic Snake",
+        "tags": ["waveclear","elusive"]
+      },
+      {
+        "spell": "Gorgon's Grasp",
+        "tags": ["initiation","pseudo_root"]
+      },
+      {
+        "spell": "Cold Blooded",
+        "tags": []
+      },
+      {
+        "spell": "Mana Shield",
+        "tags": [
+          "late_game_scaling","lane_dominator","elusive"
+        ]
+      },
+      {
+        "spell": "Stone Gaze",
+        "tags": [
+          "bkb_pierce_aoe",
+          "late_game_scaling","elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Meepo",
+    "abilities": [
+      {
+        "spell": "Earthbind",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Poof",
+        "tags": ["waveclear","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Ransack",
+        "tags": []
+      },
+      {
+        "spell": "Dig",
+        "tags": [
+          "hard_save",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "MegaMeepo",
+        "tags": [
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "Divided We Stand",
+        "tags": []
+      },
+      {
+        "spell": "MegaMeepo Fling",
+        "tags": []
+      },
+      {
+        "spell": "Sticky Fingers",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Mirana",
+    "abilities": [
+      {
+        "spell": "Starstorm",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Sacred Arrow",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Leap",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Selemene's Faithful",
+        "tags": []
+      },
+      {
+        "spell": "Moonlight Shadow",
+        "tags": [
+          "invisibility",
+          "initiation",
+          "vision_scouting","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Monkey King",
+    "abilities": [
+      {
+        "spell": "Boundless Strike",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Tree Dance",
+        "tags": [
+          "initiation",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Primal Spring",
+        "tags": ["waveclear","elusive"]
+      },
+      {
+        "spell": "Jingu Mastery",
+        "tags": [
+          "late_game_scaling","lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Mischief",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Wukong's Command",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Spring Early",
+        "tags": []
+      },
+      {
+        "spell": "Revert Form",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Morphling",
+    "abilities": [
+      {
+        "spell": "Waveform",
+        "tags": [
+          "hard_save",
+          "elusive","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Adaptive Strike",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Attribute Shift (Agility Gain)",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Attribute Shift (Strength Gain)",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Morph",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Morph Replicate",
+        "tags": []
+      },
+      {
+        "spell": "Accumulation",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Muerta",
+    "abilities": [
+      {
+        "spell": "Dead Shot",
+        "tags": ["waveclear","initiation"]
+      },
+      {
+        "spell": "The Calling",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Gunslinger",
+        "tags": ["waveclear","burst_damage"]
+      },
+      {
+        "spell": "Pierce the Veil",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Supernatural",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Naga Siren",
+    "abilities": [
+      {
+        "spell": "Mirror Image",
+        "tags": [
+          "vision_scouting","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ensnare",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Reel In",
+        "tags": ["forced_reposition_enemy"]
+      },
+      {
+        "spell": "Eelskin",
+        "tags": []
+      },
+      {
+        "spell": "Song of the Siren",
+        "tags": [
+          "mass_heal",
+          "pseudo_root",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Song of the Siren End",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Nature's Prophet",
+    "abilities": [
+      {
+        "spell": "Sprout",
+        "tags": ["initiation","lane_dominator"]
+      },
+      {
+        "spell": "Teleportation",
+        "tags": [
+          "global_mobility","initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nature's Call",
+        "tags": [
+          "push_zoo"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Curse of the Oldgrowth",
+        "tags": []
+      },
+      {
+        "spell": "Spirit of the Forest",
+        "tags": []
+      },
+      {
+        "spell": "Wrath of Nature",
+        "tags": ["waveclear","burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Necrophos",
+    "abilities": [
+      {
+        "spell": "Death Pulse",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Ghost Shroud",
+        "tags": ["elusive","lane_dominator","initiation"]
+      },
+      {
+        "spell": "Heartstopper Aura",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Death Seeker",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Sadist",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Reaper's Scythe",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Night Stalker",
+    "abilities": [
+      {
+        "spell": "Void",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Crippling Fear",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Hunter in the Night",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Dark Ascension",
+        "tags": ["initiation","elusive"]
+      },
+      {
+        "spell": "Heart of Darkness",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Nyx Assassin",
+    "abilities": [
+      {
+        "spell": "Impale",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Mind Flare",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Spiked Carapace",
+        "tags": [
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Burrow",
+        "tags": [
+          "invisibility",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nyxth Sense",
+        "tags": [
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Vendetta",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "elusive","burst_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Unburrow",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ogre Magi",
+    "abilities": [
+      {
+        "spell": "Fireblast",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Ignite",
+        "tags": [
+          "lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Bloodlust",
+        "tags": []
+      },
+      {
+        "spell": "Unrefined Fireblast",
+        "tags": []
+      },
+      {
+        "spell": "Fire Shield",
+        "tags": []
+      },
+      {
+        "spell": "Dumb Luck",
+        "tags": []
+      },
+      {
+        "spell": "Multicast",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Omniknight",
+    "abilities": [
+      {
+        "spell": "Purification",
+        "tags": ["waveclear","mass_heal"]
+      },
+      {
+        "spell": "Repel",
+        "tags": [
+          "hard_save",
+          "strong_dispel"
+        ]
+      },
+      {
+        "spell": "Hammer of Purity",
+        "tags": ["lane_dominator","late_game_scaling"]
+      },
+      {
+        "spell": "Degen Aura",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Guardian Angel",
+        "tags": ["hard_save"]
+      }
+    ]
+  },
+  {
+    "hero": "Oracle",
+    "abilities": [
+      {
+        "spell": "Fortune's End",
+        "tags": [
+          "basic_dispel","initiation"
+        ]
+      },
+      {
+        "spell": "Fate's Edict",
+        "tags": [
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Purifying Flames",
+        "tags": [
+          "mass_heal","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Rain of Destiny",
+        "tags": [
+          "mass_heal"
+        ]
+      },
+      {
+        "spell": "Prognosticate",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "False Promise",
+        "tags": [
+          "hard_save",
+          "strong_dispel"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Outworld Devourer",
+    "abilities": [
+      {
+        "spell": "Arcane Orb",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Astral Imprisonment",
+        "tags": [
+          "hard_save",
+          "reposition_save"
+        ],
+        "note": "requires aghanim shard to have reposition_save"
+      },
+      {
+        "spell": "Essence Flux",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Ominous Discernment",
+        "tags": []
+      },
+      {
+        "spell": "Sanity's Eclipse",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Pangolier",
+    "abilities": [
+      {
+        "spell": "Swashbuckle",
+        "tags": [
+          "elusive","waveclear","initiation"
+        ]
+      },
+      {
+        "spell": "Shield Crash",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Lucky Shot",
+        "tags": [],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Roll Up",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Rolling Thunder",
+        "tags": [
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Stop Rolling",
+        "tags": []
+      },
+      {
+        "spell": "End Roll Up",
+        "tags": []
+      },
+      {
+        "spell": "Fortune Favors the Bold",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Phantom Assassin",
+    "abilities": [
+      {
+        "spell": "Stifling Dagger",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Phantom Strike",
+        "tags": [
+          "initiation","elusive"
+        ]
+      },
+      {
+        "spell": "Blur",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "late_game_scaling","elusive"
+        ]
+      },
+      {
+        "spell": "Fan of Knives",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Immaterial",
+        "tags": [
+          "elusive","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Coup de Grace",
+        "tags": [
+          "late_game_scaling","burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Phantom Lancer",
+    "abilities": [
+      {
+        "spell": "Spirit Lance",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Doppelganger",
+        "tags": [
+          "basic_dispel",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Phantom Rush",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Illusory Armaments",
+        "tags": []
+      },
+      {
+        "spell": "Juxtapose",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Phoenix",
+    "abilities": [
+      {
+        "spell": "Icarus Dive",
+        "tags": ["elusive","initiation"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Fire Spirits",
+        "tags": [
+          "waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Sun Ray",
+        "tags": [
+          "mass_heal"
+        ]
+      },
+      {
+        "spell": "Toggle Movement",
+        "tags": []
+      },
+      {
+        "spell": "Blinding Sun",
+        "tags": []
+      },
+      {
+        "spell": "Supernova",
+        "tags": [
+          "hard_save",
+          "strong_dispel"
+        ],
+        "note": "requires aghanim to save teammate"
+      },
+      {
+        "spell": "Launch Fire Spirit",
+        "tags": [
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Stop Icarus Dive",
+        "tags": []
+      },
+      {
+        "spell": "Stop Sun Ray",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Primal Beast",
+    "abilities": [
+      {
+        "spell": "Onslaught",
+        "tags": [
+          "initiation","elusive","waveclear"
+        ]
+      },
+      {
+        "spell": "Trample",
+        "tags": [
+          "initiation","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Uproar",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Rock Throw",
+        "tags": ["waveclear","initiation"]
+      },
+      {
+        "spell": "Begin Onslaught",
+        "tags": []
+      },
+      {
+        "spell": "Pulverize",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Colossal",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Puck",
+    "abilities": [
+      {
+        "spell": "Illusory Orb",
+        "tags": [
+          "initiation",
+          "elusive","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Waning Rift",
+        "tags": [
+          "initiation",
+          "waveclear","elusive"
+        ]
+      },
+      {
+        "spell": "Phase Shift",
+        "tags": [
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Ethereal Jaunt",
+        "tags": []
+      },
+      {
+        "spell": "Puckish",
+        "tags": [
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Dream Coil",
+        "tags": [
+          "pseudo_root",
+          "bkb_pierce_aoe","late_game_scaling"
+        ],
+        "note": "requires aghanim to pierce bkb"
+      }
+    ]
+  },
+  {
+    "hero": "Pudge",
+    "abilities": [
+      {
+        "spell": "Meat Hook",
+        "tags": [
+          "reposition_save",
+          "initiation","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Rot",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Meat Shield",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Flesh Heap",
+        "tags": []
+      },
+      {
+        "spell": "Dismember",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Pugna",
+    "abilities": [
+      {
+        "spell": "Nether Blast",
+        "tags": [
+          "push_poke","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Decrepify",
+        "tags": [
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nether Ward",
+        "tags": ["lane_dominator"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Oblivion Savant",
+        "tags": []
+      },
+      {
+        "spell": "Life Drain",
+        "tags": [
+          "mass_heal","burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Queen of Pain",
+    "abilities": [
+      {
+        "spell": "Shadow Strike",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Blink",
+        "tags": [
+          "initiation",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Scream Of Pain",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Succubus",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Sonic Wave",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Razor",
+    "abilities": [
+      {
+        "spell": "Plasma Field",
+        "tags": [
+          "lane_dominator","waveclear","initiation"
+        ]
+      },
+      {
+        "spell": "Static Link",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Storm Surge",
+        "tags": ["waveclear","lane_dominator","elusive"]
+      },
+      {
+        "spell": "Unstable Current",
+        "tags": []
+      },
+      {
+        "spell": "Eye of the Storm",
+        "tags": ["elusive","burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Riki",
+    "abilities": [
+      {
+        "spell": "Smoke Screen",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Blink Strike",
+        "tags": [
+          "initiation",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Tricks of the Trade",
+        "tags": [
+          "initiation",
+          "hard_save",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Backstab",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Cloak and Dagger",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Ring Master",
+    "abilities": [
+      {
+        "spell": "Tame the Beasts",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Escape Act",
+        "tags": [
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Impalement Arts",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Souvenir Slot",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Spotlight",
+        "tags": [
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Wheel of Wonder",
+        "tags": [
+          "pseudo_root","burst_damage"
+        ]
+      },
+      {
+        "spell": "Crack",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Rubick",
+    "abilities": [
+      {
+        "spell": "Telekinesis",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Fade Bolt",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Arcane Supremacy",
+        "tags": []
+      },
+      {
+        "spell": "Stolen Spell",
+        "tags": []
+      },
+      {
+        "spell": "Stolen Spell",
+        "tags": []
+      },
+      {
+        "spell": "Spell Steal",
+        "tags": []
+      },
+      {
+        "spell": "Telekinesis Land",
+        "tags": []
+      },
+      {
+        "spell": "Rubick Hidden1",
+        "tags": []
+      },
+      {
+        "spell": "Rubick Hidden2",
+        "tags": []
+      },
+      {
+        "spell": "Might and Magus",
+        "tags": []
+      },
+      {
+        "spell": "Telekinesis Land",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Sand King",
+    "abilities": [
+      {
+        "spell": "Burrowstrike",
+        "tags": [
+          "initiation","elusive"
+        ]
+      },
+      {
+        "spell": "Sand Storm",
+        "tags": [
+          "invisibility",
+          "elusive","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Stinger",
+        "tags": [
+          "waveclear","burst_damage"
+        ]
+      },
+      {
+        "spell": "Caustic Finale",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Epicenter",
+        "tags": [
+          "initiation", "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Demon",
+    "abilities": [
+      {
+        "spell": "Disruption",
+        "tags": [
+          "hard_save","initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Disseminate",
+        "tags": [
+          "initiation","burst_damage"
+        ]
+      },
+      {
+        "spell": "Shadow Poison",
+        "tags": [
+          "lane_dominator",
+          "late_game_scaling", "burst_damage","waveclear"
+        ]
+      },
+      {
+        "spell": "Shadow Poison Release",
+        "tags": []
+      },
+      {
+        "spell": "Demonic Cleanse",
+        "tags": [
+          "strong_dispel", "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Demonic Purge",
+        "tags": ["burst_damage", "initiation"]
+      },
+      {
+        "spell": "Menace",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Fiend",
+    "abilities": [
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "late_game_scaling","lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "late_game_scaling","lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "late_game_scaling","lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Feast of Souls",
+        "tags": []
+      },
+      {
+        "spell": "Presence of the Dark Lord",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Requiem of Souls",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Necromastery",
+        "tags": ["lane_dominator"]
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Shaman",
+    "abilities": [
+      {
+        "spell": "Ether Shock",
+        "tags": [
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Hex",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Shackles",
+        "tags": [
+          "initiation","pseudo_root"
+        ]
+      },
+      {
+        "spell": "Fowl Play",
+        "tags": [
+          "strong_dispel",
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Mass Serpent Ward",
+        "tags": [
+          "push_cooldown"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Silencer",
+    "abilities": [
+      {
+        "spell": "Arcane Curse",
+        "tags": [
+          "lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Glaives of Wisdom",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Last Word",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Brain Drain",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Global Silence",
+        "tags": [
+          "bkb_pierce_aoe","initiation","elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Skywrath Mage",
+    "abilities": [
+      {
+        "spell": "Arcane Bolt",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Concussive Shot",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ancient Seal",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Ruin and Restoration",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Mystic Flare",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Slardar",
+    "abilities": [
+      {
+        "spell": "Guardian Sprint",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Slithereen Crush",
+        "tags": [
+          "early_rosh_armor","waveclear","lane_dominator","initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Bash of the Deep",
+        "tags": [
+          "early_rosh_armor","initiation"
+        ]
+      },
+      {
+        "spell": "Seaborn Sentinel",
+        "tags": []
+      },
+      {
+        "spell": "Corrosive Haze",
+        "tags": [
+          "early_rosh_armor",
+          "vision_scouting","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Slark",
+    "abilities": [
+      {
+        "spell": "Dark Pact",
+        "tags": [
+          "strong_dispel",
+          "elusive","burst_damage","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Pounce",
+        "tags": [
+          "initiation",
+          "pseudo_root",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Saltwater Shiv",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Depth Shroud",
+        "tags": [
+          "hard_save",
+          "mass_heal"
+        ]
+      },
+      {
+        "spell": "Essence Shift",
+        "tags": []
+      },
+      {
+        "spell": "Shadow Dance",
+        "tags": [
+          "hard_save",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Snapfire",
+    "abilities": [
+      {
+        "spell": "Scatterblast",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Firesnap Cookie",
+        "tags": [
+          "reposition_save","waveclear","lane_dominator","initiation"
+        ]
+      },
+      {
+        "spell": "Lil' Shredder",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Gobble Up",
+        "tags": [
+          "reposition_save",
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "Spit Out",
+        "tags": [
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Mortimer Kisses",
+        "tags": ["burst_damage"]
+      },
+      {
+        "spell": "Buckshot",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Sniper",
+    "abilities": [
+      {
+        "spell": "Shrapnel",
+        "tags": [
+          "waveclear","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Headshot",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Take Aim",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Concussive Grenade",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Keen Scope",
+        "tags": []
+      },
+      {
+        "spell": "Assassinate",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Spectre",
+    "abilities": [
+      {
+        "spell": "Spectral Dagger",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Shadow Step",
+        "tags": ["initiation","late_game_scaling"]
+      },
+      {
+        "spell": "Dispersion",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Reality",
+        "tags": []
+      },
+      {
+        "spell": "Desolate",
+        "tags": [
+          "late_game_scaling","lane_dominator","burst_damage"
+        ]
+      },
+      {
+        "spell": "Haunt",
+        "tags": [
+          "global_mobility",
+          "initiation",
+          "late_game_scaling"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Spirit Breaker",
+    "abilities": [
+      {
+        "spell": "Charge of Darkness",
+        "tags": [
+          "global_mobility",
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Bulldoze",
+        "tags": [
+          "basic_dispel","elusive"
+        ]
+      },
+      {
+        "spell": "Greater Bash",
+        "tags": [
+          "bkb_pierce_single","initiation"
+        ]
+      },
+      {
+        "spell": "Planar Pocket",
+        "tags": [
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "Herd Mentality",
+        "tags": []
+      },
+      {
+        "spell": "Nether Strike",
+        "tags": [
+          "bkb_pierce_single","initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Storm Spirit",
+    "abilities": [
+      {
+        "spell": "Static Remnant",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Electric Vortex",
+        "tags": [
+          "initiation","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Overload",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Ball Lightning",
+        "tags": [
+          "initiation",
+          "elusive","waveclear","lane_dominator","hard_save"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Galvanized",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Sven",
+    "abilities": [
+      {
+        "spell": "Storm Hammer",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Great Cleave",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Warcry",
+        "tags": ["elusive","early_rosh_armor"]
+      },
+      {
+        "spell": "God's Strength",
+        "tags": [
+          "late_game_scaling","burst_damage","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Vanquisher",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Techies",
+    "abilities": [
+      {
+        "spell": "Sticky Bomb",
+        "tags": ["lane_dominator","waveclear"]
+      },
+      {
+        "spell": "Reactive Tazer",
+        "tags": ["elusive"]
+      },
+      {
+        "spell": "Blast Off!",
+        "tags": [
+          "initiation",
+          "waveclear","lane_dominator","burst_damage"
+        ]
+      },
+      {
+        "spell": "Minefield Sign",
+        "tags": [
+          "pseudo_root"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Proximity Mines",
+        "tags": [
+          "invisibility",
+          "push_poke",
+          "waveclear", "burst_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Detonate Tazer",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Templar Assassin",
+    "abilities": [
+      {
+        "spell": "Refraction",
+        "tags": [
+          "elusive", "waveclear", "lane_dominator","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Meld",
+        "tags": [
+          "early_rosh_solo",
+          "invisibility",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Psi Blades",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Trap",
+        "tags": []
+      },
+      {
+        "spell": "Psionic Projection",
+        "tags": []
+      },
+      {
+        "spell": "Psionic Trap",
+        "tags": [
+          "invisibility",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Third Eye",
+        "tags": [
+          "early_rosh_solo"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Terrorblade",
+    "abilities": [
+      {
+        "spell": "Reflection",
+        "tags": ["lane_dominator"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Conjure Image",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Metamorphosis",
+        "tags": [
+          "push_cooldown",
+          "late_game_scaling","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Demon Zeal",
+        "tags": []
+      },
+      {
+        "spell": "Terror Wave",
+        "tags": []
+      },
+      {
+        "spell": "Sunder",
+        "tags": [
+          "mass_heal",
+          "elusive","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Dark Unity",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Tidehunter",
+    "abilities": [
+      {
+        "spell": "Gush",
+        "tags": []
+      },
+      {
+        "spell": "Kraken Shell",
+        "tags": ["lane_dominator","elusive"]
+      },
+      {
+        "spell": "Anchor Smash",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Dead in the Water",
+        "tags": []
+      },
+      {
+        "spell": "Ravage",
+        "tags": [
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Blubber",
+        "tags": [
+          "strong_dispel"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Timbersaw",
+    "abilities": [
+      {
+        "spell": "Whirling Death",
+        "tags": [
+          "initiation","burst_damage","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Timber Chain",
+        "tags": [
+          "initiation","elusive"
+        ]
+      },
+      {
+        "spell": "Reactive Armor",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Flamethrower",
+        "tags": [
+          "push_poke"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Chakram",
+        "tags": ["waveclear","lane_dominator","burst_damage"]
+      },
+      {
+        "spell": "Return Chakram",
+        "tags": []
+      },
+      {
+        "spell": "Shredder Return Chakram 2",
+        "tags": []
+      },
+      {
+        "spell": "Exposure Therapy",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Tinker",
+    "abilities": [
+      {
+        "spell": "Laser",
+        "tags": ["lane_dominator","elusive","burst_damage"]
+      },
+      {
+        "spell": "March of the Machines",
+        "tags": [
+          "push_poke",
+          "mass_heal",
+          "waveclear"
+        ],
+        "note": "requires repair bots facet to heal"
+      },
+      {
+        "spell": "Defense Matrix",
+        "tags": [
+          "basic_dispel","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Warp Flare",
+        "tags": [
+          "forced_reposition_enemy",
+          "pseudo_root"
+        ]
+      },
+      {
+        "spell": "Keen Conveyance",
+        "tags": []
+      },
+      {
+        "spell": "Rearm",
+        "tags": []
+      },
+      {
+        "spell": "Eureka!",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Tiny",
+    "abilities": [
+      {
+        "spell": "Avalanche",
+        "tags": [
+          "initiation",
+          "pseudo_root","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Toss",
+        "tags": [
+          "forced_reposition_enemy","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Tree Grab",
+        "tags": []
+      },
+      {
+        "spell": "Tree Volley",
+        "tags": []
+      },
+      {
+        "spell": "Craggy Exterior",
+        "tags": []
+      },
+      {
+        "spell": "Grow",
+        "tags": []
+      },
+      {
+        "spell": "Tree Throw",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Treant Protector",
+    "abilities": [
+      {
+        "spell": "Nature's Grasp",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Leech Seed",
+        "tags": [
+          "pseudo_root",
+          "lane_dominator","initiation"
+        ]
+      },
+      {
+        "spell": "Living Armor",
+        "tags": [
+          "invisibility",
+          "push_poke",
+          "mass_heal","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Eyes In The Forest",
+        "tags": [
+          "invisibility",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nature's Guise",
+        "tags": [
+          "invisibility",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Overgrowth",
+        "tags": [
+          "bkb_pierce_aoe",
+          "invisibility",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Troll Warlord",
+    "abilities": [
+      {
+        "spell": "Battle Stance",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Whirling Axes (Ranged)",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Whirling Axes (Melee)",
+        "tags": [
+          "early_rosh_solo","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Fervor",
+        "tags": [
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Berserker's Rage",
+        "tags": [
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Battle Trance",
+        "tags": [
+          "hard_save",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Tusk",
+    "abilities": [
+      {
+        "spell": "Ice Shards",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Snowball",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Walrus Kick",
+        "tags": [
+          "initiation","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Bitter Chill",
+        "tags": []
+      },
+      {
+        "spell": "Walrus PUNCH!",
+        "tags": [
+          "initiation",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Launch Snowball",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Underlord",
+    "abilities": [
+      {
+        "spell": "Firestorm",
+        "tags": ["waveclear","lane_dominator"]
+      },
+      {
+        "spell": "Pit of Malice",
+        "tags": ["initiation","lane_dominator"]
+      },
+      {
+        "spell": "Atrophy Aura",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Invading Force",
+        "tags": []
+      },
+      {
+        "spell": "Fiend's Gate",
+        "tags": [
+          "initiation",
+          "global_mobility"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Undying",
+    "abilities": [
+      {
+        "spell": "Decay",
+        "tags": [
+          "lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Soul Rip",
+        "tags": [
+        "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Tombstone",
+        "tags": [
+          "hard_save","lane_dominator"
+        ],
+        "note": "requires aghanim shard to have hard_save"
+      },
+      {
+        "spell": "Ceaseless Dirge",
+        "tags": []
+      },
+      {
+        "spell": "Flesh Golem",
+        "tags": ["elusive"]
+      }
+    ]
+  },
+  {
+    "hero": "Ursa",
+    "abilities": [
+      {
+        "spell": "Earthshock",
+        "tags": ["elusive","initiation"]
+      },
+      {
+        "spell": "Overpower",
+        "tags": [
+          "early_rosh_solo",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Fury Swipes",
+        "tags": [
+          "early_rosh_solo",
+          "late_game_scaling"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Maul",
+        "tags": []
+      },
+      {
+        "spell": "Enrage",
+        "tags": [
+          "strong_dispel",
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Vengeful Spirit",
+    "abilities": [
+      {
+        "spell": "Magic Missile",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Wave of Terror",
+        "tags": [
+          "early_rosh_armor","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Vengeance Aura",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Retribution",
+        "tags": []
+      },
+      {
+        "spell": "Nether Swap",
+        "tags": [
+          "reposition_save",
+          "forced_reposition_enemy"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Venomancer",
+    "abilities": [
+      {
+        "spell": "Venomous Gale",
+        "tags": [
+          "lane_dominator","waveclear"
+        ]
+      },
+      {
+        "spell": "Poison Sting",
+        "tags": [
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Plague Ward",
+        "tags": [
+          "vision_scouting",
+          "push_zoo","waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Septic Shock",
+        "tags": []
+      },
+      {
+        "spell": "Noxious Plague",
+        "tags": ["burst_damage"]
+      }
+    ]
+  },
+  {
+    "hero": "Viper",
+    "abilities": [
+      {
+        "spell": "Poison Attack",
+        "tags": [
+          "push_poke",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Nethertoxin",
+        "tags": [
+          "push_poke",
+          "early_rosh_armor","waveclear"
+        ]
+      },
+      {
+        "spell": "Corrosive Skin",
+        "tags": [
+          "lane_dominator","waveclear","elusive"
+        ]
+      },
+      {
+        "spell": "Nosedive",
+        "tags": [
+          "early_rosh_armor","waveclear","elusive","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Predator",
+        "tags": []
+      },
+      {
+        "spell": "Viper Strike",
+        "tags": ["initiation","burst_damage","pseudo_root"]
+      }
+    ]
+  },
+  {
+    "hero": "Visage",
+    "abilities": [
+      {
+        "spell": "Grave Chill",
+        "tags": []
+      },
+      {
+        "spell": "Soul Assumption",
+        "tags": []
+      },
+      {
+        "spell": "Gravekeeper's Cloak",
+        "tags": []
+      },
+      {
+        "spell": "Stone Form",
+        "tags": [
+          "hard_save",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Silent as the Grave",
+        "tags": [
+          "invisibility"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Summon Familiars",
+        "tags": [
+          "push_zoo",
+          "vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Stone Form",
+        "tags": [
+          "hard_save",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Lurker",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Void Spirit",
+    "abilities": [
+      {
+        "spell": "Aether Remnant",
+        "tags": [
+          "pseudo_root",
+          "elusive","waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Dissimilate",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Resonant Pulse",
+        "tags": [
+          "elusive","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Intrinsic Edge",
+        "tags": []
+      },
+      {
+        "spell": "Astral Step",
+        "tags": [
+          "initiation","elusive","burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Warlock",
+    "abilities": [
+      {
+        "spell": "Fatal Bonds",
+        "tags": [
+          "initiation","lane_dominator","waveclear","late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Shadow Word",
+        "tags": ["lane_dominator"]
+      },
+      {
+        "spell": "Upheaval",
+        "tags": [
+          "push_zoo",
+          "pseudo_root","waveclear","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Eldritch Summoning",
+        "tags": []
+      },
+      {
+        "spell": "Chaotic Offering",
+        "tags": [
+          "push_cooldown",
+          "push_zoo",
+          "bkb_pierce_aoe",
+          "initiation","waveclear","initiation","lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Weaver",
+    "abilities": [
+      {
+        "spell": "The Swarm",
+        "tags": [
+          "elusive","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shukuchi",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "initiation",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Geminate Attack",
+        "tags": ["late_game_scaling"]
+      },
+      {
+        "spell": "Time Lapse",
+        "tags": [
+          "strong_dispel",
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Rewoven",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Windranger",
+    "abilities": [
+      {
+        "spell": "Shackleshot",
+        "tags": [
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Powershot",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Windrun",
+        "tags": [
+          "hard_save","lane_dominator","initiation","elusive"
+        ]
+      },
+      {
+        "spell": "Gale Force",
+        "tags": ["initiation","forced_reposition_enemy","pseudo_root"]
+      },
+      {
+        "spell": "Focus Fire Cancel",
+        "tags": []
+      },
+      {
+        "spell": "Focus Fire",
+        "tags": [
+          "push_poke","burst_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Easy Breezy",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Winter Wyvern",
+    "abilities": [
+      {
+        "spell": "Arctic Burn",
+        "tags": [
+          "vision_scouting","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Splinter Blast",
+        "tags": ["waveclear"]
+      },
+      {
+        "spell": "Cold Embrace",
+        "tags": [
+          "hard_save","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Eldwurm Scholar",
+        "tags": []
+      },
+      {
+        "spell": "Winter's Curse",
+        "tags": [
+          "pseudo_root","initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Witch Doctor",
+    "abilities": [
+      {
+        "spell": "Paralyzing Cask",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Voodoo Restoration",
+        "tags": ["mass_heal"]
+      },
+      {
+        "spell": "Maledict",
+        "tags": ["burst_damage", "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Voodoo Switcheroo",
+        "tags": ["burst_damage"],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Gris-Gris",
+        "tags": []
+      },
+      {
+        "spell": "Death Ward",
+        "tags": ["burst_damage"],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Wraith King",
+    "abilities": [
+      {
+        "spell": "Wraithfire Blast",
+        "tags": ["initiation"]
+      },
+      {
+        "spell": "Mortal Strike",
+        "tags": [
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Vampiric Spirit",
+        "tags": [
+          "push_zoo",
+          "late_game_scaling","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Reincarnation",
+        "tags": ["elusive","hard_save"]
+      }
+    ]
+  },
+  {
+    "hero": "Zeus",
+    "abilities": [
+      {
+        "spell": "Arc Lightning",
+        "tags": [
+          "waveclear","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lightning Bolt",
+        "tags": ["initiation","lane_dominator"
+        ]
+      },
+      {
+        "spell": "Heavenly Jump",
+        "tags": [
+          "initiation","elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Nimbus",
+        "tags": [
+          "global_mobility","burst_damage","initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Lightning Hands",
+        "tags": ["waveclear","lane_dominator","late_game_scaling"]
+      },
+      {
+        "spell": "Thundergod's Wrath",
+        "tags": [
+          "global_mobility","burst_damage","initiation","vision_scouting"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Static Field",
+        "tags": []
+      }
+    ]
+  }
+]
