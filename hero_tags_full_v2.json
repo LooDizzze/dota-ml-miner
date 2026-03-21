@@ -1,0 +1,7000 @@
+[
+  {
+    "hero": "Abaddon",
+    "abilities": [
+      {
+        "spell": "Mist Coil",
+        "tags": [
+          "heal",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Aphotic Shield",
+        "tags": [
+          "shield",
+          "strong_dispel",
+          "lane_dominator",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Curse of Avernus",
+        "tags": [
+          "slow",
+          "as_buff",
+          "passive",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Withering Mist",
+        "tags": [
+          "hp_regen_debuff",
+          "slow",
+          "magical_damage",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Borrowed Time",
+        "tags": [
+          "damage_to_heal",
+          "hard_save",
+          "strong_dispel"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Alchemist",
+    "abilities": [
+      {
+        "spell": "Acid Spray",
+        "tags": [
+          "physical_damage",
+          "armor_reduction",
+          "waveclear",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Unstable Concoction",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Corrosive Weaponry",
+        "tags": [
+          "slow",
+          "passive",
+          "damage_debuff"
+        ]
+      },
+      {
+        "spell": "Berserk Potion",
+        "tags": [
+          "basic_dispel",
+          "ms_buff",
+          "as_buff",
+          "hp_regen_passive"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Greevil's Greed",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Chemical Rage",
+        "tags": [
+          "hp_regen_passive",
+          "ms_buff",
+          "as_buff",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Unstable Concoction Throw",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ancient Apparition",
+    "abilities": [
+      {
+        "spell": "Cold Feet",
+        "tags": [
+          "stun",
+          "pseudo_root",
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Vortex",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Chilling Touch",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Death Rime",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Blast",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "bkb_pierce",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Release",
+        "tags": [
+          "channeling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Anti-Mage",
+    "abilities": [
+      {
+        "spell": "Mana Break",
+        "tags": [
+          "mana_burn",
+          "physical_damage",
+          "passive",
+          "lane_dominator",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Blink",
+        "tags": [
+          "blink",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Counterspell",
+        "tags": [
+          "magic_resistance",
+          "counter_initiation",
+          "passive",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Persecutor",
+        "tags": [
+          "slow",
+          "mana_burn"
+        ]
+      },
+      {
+        "spell": "Mana Void",
+        "tags": [
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Arc Warden",
+    "abilities": [
+      {
+        "spell": "Flux",
+        "tags": [
+          "magical_damage",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Magnetic Field",
+        "tags": [
+          "evasion",
+          "as_buff"
+        ]
+      },
+      {
+        "spell": "Spark Wraith",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Runic Infusion",
+        "tags": []
+      },
+      {
+        "spell": "Tempest Double",
+        "tags": [
+          "illusions",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Axe",
+    "abilities": [
+      {
+        "spell": "Berserker's Call",
+        "tags": [
+          "taunt",
+          "bkb_pierce_aoe",
+          "initiation",
+          "armor_buff"
+        ]
+      },
+      {
+        "spell": "Battle Hunger",
+        "tags": [
+          "slow",
+          "pure_damage",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Counter Helix",
+        "tags": [
+          "pure_damage",
+          "passive",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Culling Blade",
+        "tags": [
+          "burst_damage",
+          "pure_damage",
+          "bkb_pierce",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Coat of Blood",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Bane",
+    "abilities": [
+      {
+        "spell": "Enfeeble",
+        "tags": [
+          "damage_debuff",
+          "slow",
+          "cast_range_debuff"
+        ]
+      },
+      {
+        "spell": "Brain Sap",
+        "tags": [
+          "heal",
+          "pure_damage",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Nightmare",
+        "tags": [
+          "sleep",
+          "hard_save",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Fiend's Grip",
+        "tags": [
+          "channeling",
+          "stun",
+          "mana_burn",
+          "bkb_pierce",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Nightmare End",
+        "tags": []
+      },
+      {
+        "spell": "Ichor of Nyctasha",
+        "tags": [
+          "passive",
+          "lane_dominator"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Batrider",
+    "abilities": [
+      {
+        "spell": "Sticky Napalm",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Flamebreak",
+        "tags": [
+          "forced_movement",
+          "magical_damage",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Firefly",
+        "tags": [
+          "flying_movement",
+          "magical_damage",
+          "waveclear",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Smoldering Resin",
+        "tags": [
+          "passive",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Flaming Lasso",
+        "tags": [
+          "leash",
+          "bkb_pierce_single",
+          "initiation",
+          "forced_movement",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Beastmaster",
+    "abilities": [
+      {
+        "spell": "Wild Axes",
+        "tags": [
+          "magical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Call of the Wild Boar",
+        "tags": [
+          "push_zoo",
+          "vision_scouting",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Call of the Wild Hawk",
+        "tags": []
+      },
+      {
+        "spell": "Inner Beast",
+        "tags": [
+          "aura",
+          "as_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Drums of Slom",
+        "tags": [
+          "aura",
+          "magical_damage",
+          "early_rosh_solo",
+          "damage_over_time"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Primal Roar",
+        "tags": [
+          "stun",
+          "bkb_pierce_single",
+          "initiation",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Rugged",
+        "tags": [
+          "passive",
+          "damage_reduction",
+          "lane_dominator"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Bloodseeker",
+    "abilities": [
+      {
+        "spell": "Bloodrage",
+        "tags": [
+          "spell_amp"
+        ]
+      },
+      {
+        "spell": "Blood Rite",
+        "tags": [
+          "silence",
+          "pure_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Thirst",
+        "tags": [
+          "vision_scouting",
+          "vision",
+          "ms_buff",
+          "passive",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Sanguivore",
+        "tags": [
+          "passive",
+          "lifesteal"
+        ]
+      },
+      {
+        "spell": "Rupture",
+        "tags": [
+          "bkb_pierce_single",
+          "pure_damage",
+          "pseudo_root"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Bounty Hunter",
+    "abilities": [
+      {
+        "spell": "Shuriken Toss",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Jinada",
+        "tags": [
+          "passive",
+          "physical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shadow Walk",
+        "tags": [
+          "invisibility",
+          "vision",
+          "vision_scouting"
+        ]
+      },
+      {
+        "spell": "Friendly Shadow",
+        "tags": [
+          "invisibility",
+          "vision_scouting"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Big Game Hunter",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Track",
+        "tags": [
+          "vision",
+          "vision_scouting",
+          "ms_buff",
+          "initiation",
+          "damage_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Brewmaster",
+    "abilities": [
+      {
+        "spell": "Thunder Clap",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Cinder Brew",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Drunken Brawler",
+        "tags": [
+          "passive",
+          "evasion",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Liquid Courage",
+        "tags": [
+          "ms_buff",
+          "damage_reduction"
+        ]
+      },
+      {
+        "spell": "Primal Split",
+        "tags": [
+          "invulnerability",
+          "initiation",
+          "push_zoo"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Bristleback",
+    "abilities": [
+      {
+        "spell": "Viscous Nasal Goo",
+        "tags": [
+          "armor_reduction",
+          "slow",
+          "lane_dominator",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Quill Spray",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Bristleback",
+        "tags": [
+          "passive",
+          "damage_reduction"
+        ]
+      },
+      {
+        "spell": "Hairball",
+        "tags": [
+          "armor_reduction",
+          "slow",
+          "skillshot",
+          "early_rosh_armor"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Warpath",
+        "tags": [
+          "passive",
+          "ms_buff",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Prickly",
+        "tags": [
+          "passive",
+          "damage_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Broodmother",
+    "abilities": [
+      {
+        "spell": "Insatiable Hunger",
+        "tags": [
+          "lifesteal",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Spin Web",
+        "tags": [
+          "ms_buff",
+          "flying_movement",
+          "vision",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Incapacitating Bite",
+        "tags": [
+          "passive",
+          "slow",
+          "evasion"
+        ]
+      },
+      {
+        "spell": "Spinner's Snare",
+        "tags": [
+          "root",
+          "vision",
+          "damage_over_time"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Spider's Milk",
+        "tags": [
+          "lifesteal",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Spawn Spiderlings",
+        "tags": [
+          "push_zoo",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Centaur Warrunner",
+    "abilities": [
+      {
+        "spell": "Hoof Stomp",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Double Edge",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Retaliate",
+        "tags": [
+          "passive",
+          "physical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Work Horse",
+        "tags": [
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "Hitch A Ride",
+        "tags": [
+          "hard_save",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Stampede",
+        "tags": [
+          "bkb_pierce",
+          "initiation",
+          "ms_buff",
+          "stun",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Rawhide",
+        "tags": [
+          "passive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Chaos Knight",
+    "abilities": [
+      {
+        "spell": "Chaos Bolt",
+        "tags": [
+          "stun",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Reality Rift",
+        "tags": [
+          "forced_movement",
+          "initiation",
+          "armor_reduction",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Chaos Strike",
+        "tags": [
+          "passive",
+          "lifesteal",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Reins of Chaos",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Phantasm",
+        "tags": [
+          "illusions",
+          "basic_dispel",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Chen",
+    "abilities": [
+      {
+        "spell": "Penitence",
+        "tags": [
+          "slow",
+          "as_buff",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Holy Persuasion",
+        "tags": [
+          "push_zoo",
+          "vision"
+        ]
+      },
+      {
+        "spell": "Divine Favor",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Summon Convert",
+        "tags": [
+          "push_zoo",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Hand of God",
+        "tags": [
+          "heal",
+          "global_presence"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Clinkz",
+    "abilities": [
+      {
+        "spell": "Strafe",
+        "tags": [
+          "as_buff"
+        ]
+      },
+      {
+        "spell": "Searing Arrows",
+        "tags": [
+          "physical_damage",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Death Pact",
+        "tags": [
+          "lifesteal"
+        ]
+      },
+      {
+        "spell": "Burning Barrage",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "skillshot"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Burning Army",
+        "tags": [
+          "push_zoo",
+          "physical_damage",
+          "burst_damage"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Skeleton Walk",
+        "tags": [
+          "invisibility",
+          "ms_buff",
+          "initiation",
+          "push_zoo"
+        ]
+      },
+      {
+        "spell": "Infernal Shred",
+        "tags": [
+          "armor_reduction",
+          "passive",
+          "early_rosh_armor"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Clockwerk",
+    "abilities": [
+      {
+        "spell": "Battery Assault",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Power Cogs",
+        "tags": [
+          "pseudo_root",
+          "magical_damage",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Rocket Flare",
+        "tags": [
+          "vision",
+          "magical_damage",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Overclocking",
+        "tags": [],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Jetpack",
+        "tags": [
+          "flying_movement",
+          "ms_buff",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Hookshot",
+        "tags": [
+          "stun",
+          "bkb_pierce_single",
+          "initiation",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Armor Power",
+        "tags": [
+          "passive",
+          "spell_amp"
+        ]
+      },
+      {
+        "spell": "Jetpack Toggle",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Crystal Maiden",
+    "abilities": [
+      {
+        "spell": "Crystal Nova",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Frostbite",
+        "tags": [
+          "root",
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Arcane Aura",
+        "tags": [
+          "mana_restore",
+          "aura",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Crystal Clone",
+        "tags": [
+          "illusions",
+          "hard_save",
+          "root",
+          "magical_damage",
+          "damage_over_time"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Blueheart Floe",
+        "tags": [
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Freezing Field",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "channeling",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Stop Freezing Field",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Dark Seer",
+    "abilities": [
+      {
+        "spell": "Vacuum",
+        "tags": [
+          "forced_movement",
+          "initiation",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Ion Shell",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Surge",
+        "tags": [
+          "ms_buff",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Normal Punch",
+        "tags": [
+          "stun",
+          "physical_damage"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Aggrandize",
+        "tags": [
+          "hp_regen_passive",
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Wall of Replica",
+        "tags": [
+          "illusions",
+          "initiation",
+          "lane_dominator"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Dark Willow",
+    "abilities": [
+      {
+        "spell": "Bramble Maze",
+        "tags": [
+          "root",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shadow Realm",
+        "tags": [
+          "burst_damage",
+          "hard_save",
+          "lane_dominator",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Cursed Crown",
+        "tags": [
+          "stun"
+        ]
+      },
+      {
+        "spell": "Bedlam",
+        "tags": [
+          "magical_damage",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Pixie Dust",
+        "tags": [
+          "hp_regen_passive",
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Terrorize",
+        "tags": [
+          "fear",
+          "forced_movement"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Dawnbreaker",
+    "abilities": [
+      {
+        "spell": "Starbreaker",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Celestial Hammer",
+        "tags": [
+          "physical_damage",
+          "slow",
+          "waveclear",
+          "skillshot",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Luminosity",
+        "tags": [
+          "passive",
+          "heal"
+        ]
+      },
+      {
+        "spell": "Break of Dawn",
+        "tags": [
+          "passive",
+          "vision",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Solar Guardian",
+        "tags": [
+          "teleport",
+          "heal",
+          "stun",
+          "bkb_pierce_aoe",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Dawnbreaker Land",
+        "tags": [
+          "stun",
+          "heal"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Dazzle",
+    "abilities": [
+      {
+        "spell": "Poison Touch",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shallow Grave",
+        "tags": [
+          "hard_save",
+          "heal_amp"
+        ]
+      },
+      {
+        "spell": "Shadow Wave",
+        "tags": [
+          "heal",
+          "physical_damage"
+        ]
+      },
+      {
+        "spell": "Weave",
+        "tags": [
+          "armor_reduction",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Nothl Projection",
+        "tags": [
+          "illusions",
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "End Projection",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Death Prophet",
+    "abilities": [
+      {
+        "spell": "Crypt Swarm",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Silence",
+        "tags": [
+          "silence",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Spirit Siphon",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "lifesteal",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Witchcraft",
+        "tags": [
+          "ms_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Exorcism",
+        "tags": [
+          "physical_damage",
+          "lifesteal",
+          "waveclear",
+          "push_cooldown"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Disruptor",
+    "abilities": [
+      {
+        "spell": "Thunder Strike",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Glimpse",
+        "tags": [
+          "forced_movement",
+          "counter_initiation",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Kinetic Field",
+        "tags": [
+          "root"
+        ]
+      },
+      {
+        "spell": "Electromagnetic Repulsion",
+        "tags": [
+          "forced_movement"
+        ]
+      },
+      {
+        "spell": "Static Storm",
+        "tags": [
+          "silence",
+          "magical_damage",
+          "damage_over_time",
+          "initiation",
+          "late_game_scaling"
+        ],
+        "note": "requires aghanim's scepter to mute"
+      }
+    ]
+  },
+  {
+    "hero": "Doom",
+    "abilities": [
+      {
+        "spell": "Devour",
+        "tags": [
+          "hp_regen_passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Scorched Earth",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "ms_buff",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Infernal Blade",
+        "tags": [
+          "magical_damage",
+          "stun",
+          "damage_over_time",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Devoured Ability",
+        "tags": []
+      },
+      {
+        "spell": "Devoured Ability",
+        "tags": []
+      },
+      {
+        "spell": "Doom",
+        "tags": [
+          "silence",
+          "pure_damage",
+          "bkb_pierce_single",
+          "initiation",
+          "late_game_scaling",
+          "damage_over_time"
+        ],
+        "note": "requires aghanim's scepter to become aoe, or if hero gets to lvl 25+ it gets mute or break on choice"
+      },
+      {
+        "spell": "Lvl ? Pain",
+        "tags": [
+          "magical_damage",
+          "passive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Dragon Knight",
+    "abilities": [
+      {
+        "spell": "Breathe Fire",
+        "tags": [
+          "physical_damage",
+          "damage_debuff",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Dragon Tail",
+        "tags": [
+          "stun",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Wyrm's Wrath",
+        "tags": [
+          "physical_damage",
+          "push_poke"
+        ],
+        "note": "requires corrosive dragon facet"
+      },
+      {
+        "spell": "Fireball",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "waveclear"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Elder Dragon Form",
+        "tags": [
+          "ms_buff",
+          "waveclear",
+          "late_game_scaling",
+          "initiation",
+          "lane_dominator",
+          "push_poke"
+        ]
+      },
+      {
+        "spell": "Dragon Blood",
+        "tags": [
+          "passive",
+          "hp_regen_amp",
+          "armor_buff"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Drow Ranger",
+    "abilities": [
+      {
+        "spell": "Frost Arrows",
+        "tags": [
+          "physical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Gust",
+        "tags": [
+          "silence",
+          "forced_movement",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Multishot",
+        "tags": [
+          "physical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Glacier",
+        "tags": [
+          "vision"
+        ]
+      },
+      {
+        "spell": "Precision Aura",
+        "tags": [
+          "aura",
+          "passive",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Marksmanship",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Earth Spirit",
+    "abilities": [
+      {
+        "spell": "Boulder Smash",
+        "tags": [
+          "stun",
+          "forced_movement",
+          "reposition_save",
+          "initiation",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Rolling Boulder",
+        "tags": [
+          "stun",
+          "dash",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Geomagnetic Grip",
+        "tags": [
+          "silence",
+          "forced_movement",
+          "reposition_save",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Stone Remnant",
+        "tags": []
+      },
+      {
+        "spell": "Enchant Remnant",
+        "tags": [
+          "hard_save",
+          "stun",
+          "forced_movement",
+          "counter_initiation",
+          "initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Magnetize",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "damage_over_time"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Earthshaker",
+    "abilities": [
+      {
+        "spell": "Fissure",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Enchant Totem",
+        "tags": [
+          "physical_damage",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Aftershock",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "passive",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Echo Slam",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Slugger",
+        "tags": [
+          "stun",
+          "passive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Elder Titan",
+    "abilities": [
+      {
+        "spell": "Echo Stomp",
+        "tags": [
+          "sleep",
+          "magical_damage",
+          "initiation",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Astral Spirit",
+        "tags": [
+          "vision",
+          "ms_buff",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Natural Order",
+        "tags": [
+          "armor_reduction",
+          "magic_resistance",
+          "aura",
+          "passive",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Move Astral Spirit",
+        "tags": []
+      },
+      {
+        "spell": "Earth Splitter",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "late_game_scaling",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Return Astral Spirit",
+        "tags": []
+      },
+      {
+        "spell": "Tip the Scales",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ember Spirit",
+    "abilities": [
+      {
+        "spell": "Searing Chains",
+        "tags": [
+          "root",
+          "magical_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Sleight of Fist",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Flame Guard",
+        "tags": [
+          "magical_damage",
+          "damage_reduction",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Activate Fire Remnant",
+        "tags": [
+          "blink",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Immolation",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Fire Remnant",
+        "tags": [
+          "blink",
+          "initiation",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Enchantress",
+    "abilities": [
+      {
+        "spell": "Impetus",
+        "tags": [
+          "pure_damage",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Enchant",
+        "tags": [
+          "slow",
+          "push_zoo",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Nature's Attendants",
+        "tags": [
+          "heal",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Sproink",
+        "tags": [
+          "dash",
+          "counter_initiation",
+          "elusive"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Little Friends",
+        "tags": [
+          "push_zoo",
+          "aura"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Untouchable",
+        "tags": [
+          "passive",
+          "slow",
+          "counter_initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Rabble-Rouser",
+        "tags": [
+          "aura",
+          "global_presence"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Enigma",
+    "abilities": [
+      {
+        "spell": "Malefice",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Demonic Summoning",
+        "tags": [
+          "push_zoo",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Midnight Pulse",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Gravity Well",
+        "tags": [
+          "damage_reduction"
+        ]
+      },
+      {
+        "spell": "Black Hole",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation",
+          "channeling",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Faceless Void",
+    "abilities": [
+      {
+        "spell": "Time Walk",
+        "tags": [
+          "blink",
+          "initiation",
+          "counter_initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Time Dilation",
+        "tags": [
+          "slow",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Time Lock",
+        "tags": [
+          "stun",
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Reverse Time Walk",
+        "tags": [
+          "hard_save",
+          "counter_initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Distortion Field",
+        "tags": [
+          "aura"
+        ]
+      },
+      {
+        "spell": "Chronosphere",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Time Zone",
+        "tags": [
+          "bkb_pierce_aoe",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Grimstroke",
+    "abilities": [
+      {
+        "spell": "Stroke of Fate",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Phantom's Embrace",
+        "tags": [
+          "silence",
+          "magical_damage",
+          "damage_over_time",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Ink Swell",
+        "tags": [
+          "stun",
+          "basic_dispel",
+          "initiation",
+          "lane_dominator"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Dark Portrait",
+        "tags": [
+          "illusions",
+          "late_game_scaling"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Ink Explosion",
+        "tags": [
+          "magical_damage",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Soulbind",
+        "tags": [
+          "root",
+          "pseudo_root",
+          "initiation",
+          "late_game_scaling",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Ink Trail",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Gyrocopter",
+    "abilities": [
+      {
+        "spell": "Rocket Barrage",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Homing Missile",
+        "tags": [
+          "stun",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Flak Cannon",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Chop Shop",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Call Down",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "waveclear",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Hoodwink",
+    "abilities": [
+      {
+        "spell": "Acorn Shot",
+        "tags": [
+          "physical_damage",
+          "slow",
+          "lane_dominator",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Bushwhack",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Scurry",
+        "tags": [
+          "ms_buff",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Decoy",
+        "tags": [
+          "invisibility",
+          "elusive"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Hunter's Boomerang",
+        "tags": [
+          "vision_scouting",
+          "slow",
+          "skillshot",
+          "damage_amp"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Sharpshooter",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "End Sharpshooter",
+        "tags": []
+      },
+      {
+        "spell": "Mistwoods Wayfarer",
+        "tags": [
+          "passive",
+          "evasion"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Huskar",
+    "abilities": [
+      {
+        "spell": "Inner Fire",
+        "tags": [
+          "forced_movement",
+          "disarm",
+          "silence",
+          "initiation",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Burning Spear",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator",
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Berserker's Blood",
+        "tags": [
+          "as_buff",
+          "magic_resistance",
+          "late_game_scaling",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Blood Magic",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Life Break",
+        "tags": [
+          "burst_damage",
+          "slow",
+          "bkb_pierce_single",
+          "late_game_scaling",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Invoker",
+    "abilities": [
+      {
+        "spell": "Quas",
+        "tags": [
+          "passive",
+          "hp_regen_passive"
+        ]
+      },
+      {
+        "spell": "Wex",
+        "tags": [
+          "passive",
+          "as_buff",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Exort",
+        "tags": [
+          "passive",
+          "physical_damage"
+        ]
+      },
+      {
+        "spell": "Invoked Spell",
+        "tags": []
+      },
+      {
+        "spell": "Invoked Spell",
+        "tags": []
+      },
+      {
+        "spell": "Invoke",
+        "tags": []
+      },
+      {
+        "spell": "Cold Snap",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "damage_over_time",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ghost Walk",
+        "tags": [
+          "invisibility",
+          "slow",
+          "ms_buff",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Tornado",
+        "tags": [
+          "banish",
+          "magical_damage",
+          "waveclear",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "E.M.P.",
+        "tags": [
+          "mana_burn",
+          "magical_damage",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Alacrity",
+        "tags": [
+          "as_buff",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Chaos Meteor",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "damage_over_time",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Sun Strike",
+        "tags": [
+          "burst_damage",
+          "pure_damage",
+          "skillshot",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Forge Spirit",
+        "tags": [
+          "push_zoo",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Wall",
+        "tags": [
+          "slow",
+          "waveclear",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Deafening Blast",
+        "tags": [
+          "forced_movement",
+          "disarm",
+          "magical_damage",
+          "waveclear"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Io",
+    "abilities": [
+      {
+        "spell": "Tether",
+        "tags": [
+          "ms_buff",
+          "hp_regen_amp",
+          "mana_restore",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Spirits",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Overcharge",
+        "tags": [
+          "damage_reduction",
+          "as_buff",
+          "hp_regen_amp",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Spirits In",
+        "tags": []
+      },
+      {
+        "spell": "Spirits Out",
+        "tags": []
+      },
+      {
+        "spell": "Relocate",
+        "tags": [
+          "teleport",
+          "global_presence",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Break Tether",
+        "tags": []
+      },
+      {
+        "spell": "Wellspring",
+        "tags": [
+          "heal",
+          "mana_restore"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Jakiro",
+    "abilities": [
+      {
+        "spell": "Dual Breath",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ice Path",
+        "tags": [
+          "stun",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Liquid Fire",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "push_poke",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Liquid Frost",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "push_poke",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Double Trouble",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Macropyre",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Juggernaut",
+    "abilities": [
+      {
+        "spell": "Blade Fury",
+        "tags": [
+          "magical_damage",
+          "strong_dispel",
+          "spell_immunity",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Healing Ward",
+        "tags": [
+          "heal",
+          "aura",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Blade Dance",
+        "tags": [
+          "passive",
+          "physical_damage",
+          "late_game_scaling",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Swiftslash",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "blink"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Duelist",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Omnislash",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "hard_save",
+          "blink"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Keeper of the Light",
+    "abilities": [
+      {
+        "spell": "Illuminate",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "channeling",
+          "heal"
+        ]
+      },
+      {
+        "spell": "Blinding Light",
+        "tags": [
+          "forced_movement",
+          "evasion",
+          "counter_initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Chakra Magic",
+        "tags": [
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Will-O-Wisp",
+        "tags": [
+          "fear",
+          "pseudo_root"
+        ]
+      },
+      {
+        "spell": "Spirit Form",
+        "tags": [
+          "ms_buff",
+          "global_presence"
+        ]
+      },
+      {
+        "spell": "Release Illuminate",
+        "tags": []
+      },
+      {
+        "spell": "Special Reserve",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Kez",
+    "abilities": [
+      {
+        "spell": "Echo Slash",
+        "tags": [
+          "physical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Grappling Claw",
+        "tags": [
+          "dash",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Kazurai Katana",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "late_game_scaling",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Switch Discipline",
+        "tags": []
+      },
+      {
+        "spell": "Raptor Dance",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "blink",
+          "pure_damage",
+          "lifesteal"
+        ]
+      },
+      {
+        "spell": "Falcon Rush",
+        "tags": [
+          "dash",
+          "physical_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Talon Toss",
+        "tags": [
+          "forced_movement",
+          "initiation",
+          "silence",
+          "bkb_pierce_single"
+        ]
+      },
+      {
+        "spell": "Shodo Sai",
+        "tags": [
+          "hard_save",
+          "late_game_scaling",
+          "evasion"
+        ]
+      },
+      {
+        "spell": "Raven's Veil",
+        "tags": [
+          "invisibility",
+          "initiation",
+          "elusive",
+          "vision_scouting"
+        ]
+      },
+      {
+        "spell": "Cancel",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Kunkka",
+    "abilities": [
+      {
+        "spell": "Torrent",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Tidebringer",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "passive"
+        ]
+      },
+      {
+        "spell": "X Marks the Spot",
+        "tags": [
+          "forced_movement",
+          "pseudo_root",
+          "initiation",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Admiral's Rum",
+        "tags": [
+          "damage_reduction",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Tidal Wave",
+        "tags": [
+          "forced_movement",
+          "stun",
+          "initiation"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Ghostship",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "damage_reduction",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Return",
+        "tags": [
+          "forced_movement"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Largo",
+    "abilities": [
+      {
+        "spell": "Catchy Lick",
+        "tags": [
+          "basic_dispel",
+          "forced_movement",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Frogstomp",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Croak of Genius",
+        "tags": [
+          "spell_amp",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Encore",
+        "tags": [
+          "hard_save"
+        ]
+      },
+      {
+        "spell": "Amphibian Rhapsody",
+        "tags": [
+          "aura"
+        ]
+      },
+      {
+        "spell": "Bullbelly Blitz",
+        "tags": [
+          "spell_amp",
+          "damage_amp",
+          "aura"
+        ]
+      },
+      {
+        "spell": "Hotfeet Hustle",
+        "tags": [
+          "ms_buff",
+          "initiation",
+          "counter_initiation",
+          "aura"
+        ]
+      },
+      {
+        "spell": "Island Elixir",
+        "tags": [
+          "mass_heal",
+          "aura"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Legion Commander",
+    "abilities": [
+      {
+        "spell": "Overwhelming Odds",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "as_buff",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Press The Attack",
+        "tags": [
+          "strong_dispel",
+          "hp_regen_passive",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Moment of Courage",
+        "tags": [
+          "passive",
+          "lifesteal",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Outfight Them!",
+        "tags": [
+          "passive",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Duel",
+        "tags": [
+          "bkb_pierce_single",
+          "initiation",
+          "late_game_scaling",
+          "taunt"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Leshrac",
+    "abilities": [
+      {
+        "spell": "Split Earth",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "waveclear",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Diabolic Edict",
+        "tags": [
+          "pure_damage",
+          "burst_damage",
+          "waveclear",
+          "bkb_pierce_aoe"
+        ]
+      },
+      {
+        "spell": "Lightning Storm",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Nihilism",
+        "tags": [
+          "spell_immunity",
+          "ms_buff",
+          "elusive"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Defilement",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Pulse Nova",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "burst_damage",
+          "aura"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lich",
+    "abilities": [
+      {
+        "spell": "Frost Blast",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Frost Shield",
+        "tags": [
+          "shield",
+          "slow",
+          "damage_reduction",
+          "hard_save",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Sinister Gaze",
+        "tags": [
+          "channeling",
+          "slow",
+          "mana_burn",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Ice Spire",
+        "tags": [
+          "slow",
+          "vision"
+        ]
+      },
+      {
+        "spell": "Death Charge",
+        "tags": [
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Chain Frost",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lifestealer",
+    "abilities": [
+      {
+        "spell": "Rage",
+        "tags": [
+          "spell_immunity",
+          "basic_dispel",
+          "magic_resistance"
+        ]
+      },
+      {
+        "spell": "Open Wounds",
+        "tags": [
+          "slow",
+          "lifesteal"
+        ]
+      },
+      {
+        "spell": "Ghoul Frenzy",
+        "tags": [
+          "as_buff",
+          "ms_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Feast",
+        "tags": [
+          "passive",
+          "lifesteal",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Infest",
+        "tags": [
+          "basic_dispel",
+          "ms_buff",
+          "heal",
+          "hard_save",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lina",
+    "abilities": [
+      {
+        "spell": "Dragon Slave",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Light Strike Array",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Fiery Soul",
+        "tags": [
+          "as_buff",
+          "ms_buff",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Flame Cloak",
+        "tags": [
+          "damage_reduction",
+          "magic_resistance",
+          "initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Combustion",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Laguna Blade",
+        "tags": [
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lion",
+    "abilities": [
+      {
+        "spell": "Earth Spike",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "waveclear",
+          "initiation",
+          "lane_dominator",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Hex",
+        "tags": [
+          "hex",
+          "lane_dominator",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Mana Drain",
+        "tags": [
+          "mana_burn",
+          "channeling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "To Hell and Back",
+        "tags": [
+          "spell_amp"
+        ]
+      },
+      {
+        "spell": "Finger of Death",
+        "tags": [
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lone Druid",
+    "abilities": [
+      {
+        "spell": "Entangle",
+        "tags": [
+          "root",
+          "bkb_pierce_single",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Spirit Link",
+        "tags": [
+          "lifesteal",
+          "ms_buff",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Savage Roar",
+        "tags": [
+          "fear",
+          "forced_movement",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Summon Spirit Bear",
+        "tags": [
+          "push_zoo",
+          "early_rosh_solo",
+          "lane_dominator",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "True Form",
+        "tags": [
+          "heal",
+          "armor_buff",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Luna",
+    "abilities": [
+      {
+        "spell": "Lucent Beam",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lunar Orbit",
+        "tags": [
+          "damage_reduction",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Moon Glaives",
+        "tags": [
+          "physical_damage",
+          "passive",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lunar Blessing",
+        "tags": [
+          "vision_scouting",
+          "passive",
+          "late_game_scaling",
+          "aura"
+        ]
+      },
+      {
+        "spell": "Eclipse",
+        "tags": [
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Lycan",
+    "abilities": [
+      {
+        "spell": "Summon Wolves",
+        "tags": [
+          "push_zoo",
+          "vision_scouting",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Howl",
+        "tags": [
+          "aura",
+          "damage_reduction",
+          "armor_reduction",
+          "roshan_killer",
+          "early_rosh_armor",
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Feral Impulse",
+        "tags": [
+          "aura",
+          "passive",
+          "damage_amp",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Wolf Bite",
+        "tags": [
+          "lifesteal",
+          "ms_buff",
+          "late_game_scaling",
+          "initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Apex Predator",
+        "tags": []
+      },
+      {
+        "spell": "Shapeshift",
+        "tags": [
+          "ms_buff",
+          "as_buff",
+          "initiation",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Magnus",
+    "abilities": [
+      {
+        "spell": "Shockwave",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Empower",
+        "tags": [
+          "damage_amp",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Skewer",
+        "tags": [
+          "forced_movement",
+          "initiation",
+          "counter_initiation",
+          "magical_damage",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Horn Toss",
+        "tags": [
+          "forced_movement",
+          "stun",
+          "initiation",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Solid Core",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Reverse Polarity",
+        "tags": [
+          "bkb_pierce_aoe",
+          "forced_movement",
+          "stun",
+          "initiation",
+          "counter_initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Marci",
+    "abilities": [
+      {
+        "spell": "Dispose",
+        "tags": [
+          "forced_movement",
+          "stun",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Rebound",
+        "tags": [
+          "dash",
+          "stun",
+          "initiation",
+          "reposition_save"
+        ],
+        "note": "requires pick-me-up facet to save teammate"
+      },
+      {
+        "spell": "Bodyguard",
+        "tags": [
+          "lane_dominator",
+          "lifesteal",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Special Delivery",
+        "tags": []
+      },
+      {
+        "spell": "Unleash",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "slow"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Mars",
+    "abilities": [
+      {
+        "spell": "Spear of Mars",
+        "tags": [
+          "stun",
+          "forced_movement",
+          "magical_damage",
+          "initiation",
+          "waveclear",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "God's Rebuke",
+        "tags": [
+          "physical_damage",
+          "forced_movement",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Bulwark",
+        "tags": [
+          "damage_reduction",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Dauntless",
+        "tags": [
+          "passive",
+          "hp_regen_passive"
+        ]
+      },
+      {
+        "spell": "Arena Of Blood",
+        "tags": [
+          "pseudo_root",
+          "initiation",
+          "counter_initiation",
+          "mass_heal"
+        ],
+        "note": "requires victory feast facet to mass heal"
+      }
+    ]
+  },
+  {
+    "hero": "Medusa",
+    "abilities": [
+      {
+        "spell": "Split Shot",
+        "tags": [
+          "physical_damage",
+          "passive",
+          "waveclear",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Mystic Snake",
+        "tags": [
+          "magical_damage",
+          "mana_restore",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Gorgon's Grasp",
+        "tags": [
+          "root",
+          "pseudo_root",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Cold Blooded",
+        "tags": [
+          "passive",
+          "evasion",
+          "ms_buff"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Mana Shield",
+        "tags": [
+          "shield",
+          "passive",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Stone Gaze",
+        "tags": [
+          "stun",
+          "slow",
+          "bkb_pierce_aoe",
+          "late_game_scaling",
+          "counter_initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Meepo",
+    "abilities": [
+      {
+        "spell": "Earthbind",
+        "tags": [
+          "root",
+          "initiation",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Poof",
+        "tags": [
+          "teleport",
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ransack",
+        "tags": [
+          "passive",
+          "lifesteal"
+        ]
+      },
+      {
+        "spell": "Dig",
+        "tags": [
+          "invulnerability",
+          "hard_save",
+          "elusive",
+          "hp_regen_passive"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "MegaMeepo",
+        "tags": [
+          "heal",
+          "damage_reduction",
+          "hard_save",
+          "late_game_scaling"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Divided We Stand",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "MegaMeepo Fling",
+        "tags": [
+          "slow"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Sticky Fingers",
+        "tags": [
+          "passive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Mirana",
+    "abilities": [
+      {
+        "spell": "Starstorm",
+        "tags": [
+          "waveclear",
+          "lane_dominator",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Sacred Arrow",
+        "tags": [
+          "initiation",
+          "skillshot",
+          "magical_damage",
+          "stun"
+        ]
+      },
+      {
+        "spell": "Leap",
+        "tags": [
+          "elusive",
+          "initiation",
+          "dash"
+        ]
+      },
+      {
+        "spell": "Selemene's Faithful",
+        "tags": [
+          "heal_amp",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Moonlight Shadow",
+        "tags": [
+          "invisibility",
+          "initiation",
+          "vision_scouting",
+          "elusive",
+          "evasion"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Monkey King",
+    "abilities": [
+      {
+        "spell": "Boundless Strike",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Tree Dance",
+        "tags": [
+          "dash",
+          "vision_scouting",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Primal Spring",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Jingu Mastery",
+        "tags": [
+          "damage_amp",
+          "passive",
+          "lifesteal",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Mischief",
+        "tags": [
+          "elusive",
+          "vision_scouting"
+        ]
+      },
+      {
+        "spell": "Wukong's Command",
+        "tags": [
+          "illusions",
+          "armor_buff",
+          "late_game_scaling",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Spring Early",
+        "tags": []
+      },
+      {
+        "spell": "Revert Form",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Morphling",
+    "abilities": [
+      {
+        "spell": "Waveform",
+        "tags": [
+          "dash",
+          "magical_damage",
+          "waveclear",
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Adaptive Strike",
+        "tags": [
+          "burst_damage",
+          "forced_movement",
+          "stun",
+          "initiation",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Attribute Shift (Agility Gain)",
+        "tags": [
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Attribute Shift (Strength Gain)",
+        "tags": [
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Morph",
+        "tags": []
+      },
+      {
+        "spell": "Morph Replicate",
+        "tags": []
+      },
+      {
+        "spell": "Accumulation",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Muerta",
+    "abilities": [
+      {
+        "spell": "Dead Shot",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "waveclear",
+          "initiation",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "The Calling",
+        "tags": [
+          "magical_damage",
+          "silence",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Gunslinger",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Pierce the Veil",
+        "tags": [
+          "ghost_form",
+          "hard_save",
+          "magical_damage",
+          "burst_damage",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Supernatural",
+        "tags": [
+          "passive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Naga Siren",
+    "abilities": [
+      {
+        "spell": "Mirror Image",
+        "tags": [
+          "illusions",
+          "basic_dispel",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ensnare",
+        "tags": [
+          "root",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Reel In",
+        "tags": [
+          "forced_movement",
+          "root"
+        ]
+      },
+      {
+        "spell": "Eelskin",
+        "tags": [
+          "passive",
+          "evasion"
+        ]
+      },
+      {
+        "spell": "Song of the Siren",
+        "tags": [
+          "sleep",
+          "initiation",
+          "counter_initiation",
+          "mass_heal"
+        ]
+      },
+      {
+        "spell": "Song of the Siren End",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Nature's Prophet",
+    "abilities": [
+      {
+        "spell": "Sprout",
+        "tags": [
+          "pseudo_root",
+          "initiation",
+          "lane_dominator",
+          "magical_damage"
+        ]
+      },
+      {
+        "spell": "Teleportation",
+        "tags": [
+          "teleport",
+          "global_presence",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Nature's Call",
+        "tags": [
+          "push_zoo",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Curse of the Oldgrowth",
+        "tags": [
+          "magical_damage",
+          "damage_over_time"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Spirit of the Forest",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Wrath of Nature",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "global_presence"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Necrophos",
+    "abilities": [
+      {
+        "spell": "Death Pulse",
+        "tags": [
+          "magical_damage",
+          "heal",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ghost Shroud",
+        "tags": [
+          "ghost_form",
+          "heal_amp",
+          "slow",
+          "elusive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Heartstopper Aura",
+        "tags": [
+          "hp_regen_debuff",
+          "aura",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Death Seeker",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "initiation"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Sadist",
+        "tags": [
+          "passive",
+          "hp_regen_passive",
+          "mana_restore",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Reaper's Scythe",
+        "tags": [
+          "stun",
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Night Stalker",
+    "abilities": [
+      {
+        "spell": "Void",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Crippling Fear",
+        "tags": [
+          "silence",
+          "damage_over_time",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Hunter in the Night",
+        "tags": [
+          "passive",
+          "ms_buff",
+          "as_buff",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Dark Ascension",
+        "tags": [
+          "flying_movement",
+          "vision",
+          "ms_buff",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Heart of Darkness",
+        "tags": [
+          "passive",
+          "heal_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Nyx Assassin",
+    "abilities": [
+      {
+        "spell": "Impale",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "skillshot",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Mind Flare",
+        "tags": [
+          "mana_burn",
+          "magical_damage",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Spiked Carapace",
+        "tags": [
+          "stun",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Burrow",
+        "tags": [
+          "invisibility",
+          "initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Nyxth Sense",
+        "tags": [
+          "vision_scouting",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Vendetta",
+        "tags": [
+          "invisibility",
+          "burst_damage",
+          "pure_damage",
+          "elusive",
+          "flying_movement"
+        ]
+      },
+      {
+        "spell": "Unburrow",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Ogre Magi",
+    "abilities": [
+      {
+        "spell": "Fireblast",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Ignite",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Bloodlust",
+        "tags": [
+          "ms_buff",
+          "as_buff",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Unrefined Fireblast",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Fire Shield",
+        "tags": [
+          "shield",
+          "damage_reduction"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Dumb Luck",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Multicast",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Omniknight",
+    "abilities": [
+      {
+        "spell": "Purification",
+        "tags": [
+          "heal",
+          "pure_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Repel",
+        "tags": [
+          "spell_immunity",
+          "strong_dispel",
+          "hard_save",
+          "hp_regen_passive",
+          "hp_regen_amp"
+        ]
+      },
+      {
+        "spell": "Hammer of Purity",
+        "tags": [
+          "pure_damage",
+          "lane_dominator",
+          "late_game_scaling",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Degen Aura",
+        "tags": [
+          "slow",
+          "aura",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Guardian Angel",
+        "tags": [
+          "invulnerability",
+          "hard_save",
+          "hard_save"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Oracle",
+    "abilities": [
+      {
+        "spell": "Fortune's End",
+        "tags": [
+          "root",
+          "basic_dispel",
+          "initiation",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Fate's Edict",
+        "tags": [
+          "spell_immunity",
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Purifying Flames",
+        "tags": [
+          "heal",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Rain of Destiny",
+        "tags": [
+          "heal",
+          "hp_regen_amp"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Prognosticate",
+        "tags": [
+          "global_presence",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "False Promise",
+        "tags": [
+          "hard_save",
+          "strong_dispel",
+          "heal_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Outworld Devourer",
+    "abilities": [
+      {
+        "spell": "Arcane Orb",
+        "tags": [
+          "pure_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Astral Imprisonment",
+        "tags": [
+          "banish",
+          "hard_save",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Essence Flux",
+        "tags": [
+          "passive",
+          "mana_restore",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ominous Discernment",
+        "tags": [
+          "passive",
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Sanity's Eclipse",
+        "tags": [
+          "burst_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Pangolier",
+    "abilities": [
+      {
+        "spell": "Swashbuckle",
+        "tags": [
+          "physical_damage",
+          "waveclear",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Shield Crash",
+        "tags": [
+          "damage_reduction",
+          "elusive",
+          "shield"
+        ]
+      },
+      {
+        "spell": "Lucky Shot",
+        "tags": [
+          "passive",
+          "armor_reduction",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Roll Up",
+        "tags": [
+          "spell_immunity"
+        ]
+      },
+      {
+        "spell": "Rolling Thunder",
+        "tags": [
+          "stun",
+          "initiation",
+          "elusive",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Stop Rolling",
+        "tags": []
+      },
+      {
+        "spell": "End Roll Up",
+        "tags": []
+      },
+      {
+        "spell": "Fortune Favors the Bold",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Phantom Assassin",
+    "abilities": [
+      {
+        "spell": "Stifling Dagger",
+        "tags": [
+          "slow",
+          "physical_damage",
+          "lane_dominator",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Phantom Strike",
+        "tags": [
+          "blink",
+          "as_buff",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Blur",
+        "tags": [
+          "invisibility",
+          "vision_scouting",
+          "late_game_scaling",
+          "elusive",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Fan of Knives",
+        "tags": [
+          "pure_damage",
+          "burst_damage",
+          "armor_reduction",
+          "initiation",
+          "break",
+          "percentage_damage",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Immaterial",
+        "tags": [
+          "evasion",
+          "passive",
+          "elusive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Coup de Grace",
+        "tags": [
+          "passive",
+          "burst_damage",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Phantom Lancer",
+    "abilities": [
+      {
+        "spell": "Spirit Lance",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "illusions",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Doppelganger",
+        "tags": [
+          "basic_dispel",
+          "elusive",
+          "illusions"
+        ]
+      },
+      {
+        "spell": "Phantom Rush",
+        "tags": [
+          "dash",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Illusory Armaments",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Juxtapose",
+        "tags": [
+          "passive",
+          "illusions",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Phoenix",
+    "abilities": [
+      {
+        "spell": "Icarus Dive",
+        "tags": [
+          "dash",
+          "slow",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Fire Spirits",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Sun Ray",
+        "tags": [
+          "mass_heal",
+          "magical_damage",
+          "damage_over_time",
+          "channeling",
+          "percentage_damage"
+        ]
+      },
+      {
+        "spell": "Toggle Movement",
+        "tags": []
+      },
+      {
+        "spell": "Blinding Sun",
+        "tags": [
+          "evasion"
+        ]
+      },
+      {
+        "spell": "Supernova",
+        "tags": [
+          "hard_save",
+          "strong_dispel",
+          "stun",
+          "bkb_pierce_aoe"
+        ]
+      },
+      {
+        "spell": "Launch Fire Spirit",
+        "tags": [
+          "magical_damage",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Stop Icarus Dive",
+        "tags": []
+      },
+      {
+        "spell": "Stop Sun Ray",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Primal Beast",
+    "abilities": [
+      {
+        "spell": "Onslaught",
+        "tags": [
+          "dash",
+          "physical_damage",
+          "initiation",
+          "waveclear",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Trample",
+        "tags": [
+          "magical_damage",
+          "initiation",
+          "waveclear",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Uproar",
+        "tags": [
+          "damage_amp",
+          "armor_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Rock Throw",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "waveclear",
+          "initiation",
+          "skillshot"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Begin Onslaught",
+        "tags": []
+      },
+      {
+        "spell": "Pulverize",
+        "tags": [
+          "stun",
+          "bkb_pierce_single",
+          "magical_damage",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Colossal",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "push_poke"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Puck",
+    "abilities": [
+      {
+        "spell": "Illusory Orb",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "initiation",
+          "elusive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Waning Rift",
+        "tags": [
+          "silence",
+          "magical_damage",
+          "initiation",
+          "waveclear",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Phase Shift",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Ethereal Jaunt",
+        "tags": [
+          "teleport"
+        ]
+      },
+      {
+        "spell": "Puckish",
+        "tags": [
+          "heal",
+          "mana_restore"
+        ]
+      },
+      {
+        "spell": "Dream Coil",
+        "tags": [
+          "root",
+          "bkb_pierce_aoe",
+          "late_game_scaling"
+        ],
+        "note": "requires lvl 25 to have bkb_pierce_aoe"
+      }
+    ]
+  },
+  {
+    "hero": "Pudge",
+    "abilities": [
+      {
+        "spell": "Meat Hook",
+        "tags": [
+          "forced_movement",
+          "magical_damage",
+          "initiation",
+          "reposition_save",
+          "lane_dominator",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Rot",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Meat Shield",
+        "tags": [
+          "damage_reduction",
+          "shield",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Flesh Heap",
+        "tags": [
+          "passive",
+          "hp_regen_passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Dismember",
+        "tags": [
+          "channeling",
+          "magical_damage",
+          "stun",
+          "bkb_pierce_single",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Pugna",
+    "abilities": [
+      {
+        "spell": "Nether Blast",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "push_poke"
+        ]
+      },
+      {
+        "spell": "Decrepify",
+        "tags": [
+          "ghost_form",
+          "hard_save",
+          "heal_amp",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Nether Ward",
+        "tags": [
+          "aura",
+          "magical_damage",
+          "mana_burn",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Oblivion Savant",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Life Drain",
+        "tags": [
+          "channeling",
+          "heal",
+          "magical_damage",
+          "mana_burn",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Queen of Pain",
+    "abilities": [
+      {
+        "spell": "Shadow Strike",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Blink",
+        "tags": [
+          "blink",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Scream Of Pain",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Succubus",
+        "tags": [
+          "lifesteal",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Sonic Wave",
+        "tags": [
+          "burst_damage",
+          "pure_damage",
+          "forced_movement"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Razor",
+    "abilities": [
+      {
+        "spell": "Plasma Field",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "initiation",
+          "lane_dominator",
+          "slow"
+        ]
+      },
+      {
+        "spell": "Static Link",
+        "tags": [
+          "damage_debuff",
+          "damage_amp",
+          "lane_dominator",
+          "physical_damage"
+        ]
+      },
+      {
+        "spell": "Storm Surge",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "waveclear",
+          "lane_dominator",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Unstable Current",
+        "tags": [
+          "passive",
+          "ms_buff",
+          "counter_initiation"
+        ]
+      },
+      {
+        "spell": "Eye of the Storm",
+        "tags": [
+          "physical_damage",
+          "armor_reduction",
+          "burst_damage",
+          "elusive",
+          "early_rosh_armor"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Riki",
+    "abilities": [
+      {
+        "spell": "Smoke Screen",
+        "tags": [
+          "silence",
+          "evasion",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Blink Strike",
+        "tags": [
+          "blink",
+          "physical_damage",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Tricks of the Trade",
+        "tags": [
+          "invulnerability",
+          "physical_damage",
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Backstab",
+        "tags": [
+          "passive",
+          "physical_damage",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Cloak and Dagger",
+        "tags": [
+          "invisibility",
+          "passive",
+          "vision_scouting",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Ring Master",
+    "abilities": [
+      {
+        "spell": "Tame the Beasts",
+        "tags": [
+          "fear",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Escape Act",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "banish"
+        ]
+      },
+      {
+        "spell": "Impalement Arts",
+        "tags": [
+          "physical_damage",
+          "slow",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Souvenir Slot",
+        "tags": [
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Spotlight",
+        "tags": [
+          "vision_scouting",
+          "vision"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Wheel of Wonder",
+        "tags": [
+          "taunt",
+          "pseudo_root",
+          "magical_damage",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Crack",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Rubick",
+    "abilities": [
+      {
+        "spell": "Telekinesis",
+        "tags": [
+          "forced_movement",
+          "stun",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Fade Bolt",
+        "tags": [
+          "magical_damage",
+          "damage_debuff",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Arcane Supremacy",
+        "tags": [
+          "passive",
+          "spell_amp",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Stolen Spell",
+        "tags": []
+      },
+      {
+        "spell": "Stolen Spell",
+        "tags": []
+      },
+      {
+        "spell": "Spell Steal",
+        "tags": []
+      },
+      {
+        "spell": "Telekinesis Land",
+        "tags": []
+      },
+      {
+        "spell": "Rubick Hidden1",
+        "tags": []
+      },
+      {
+        "spell": "Rubick Hidden2",
+        "tags": []
+      },
+      {
+        "spell": "Might and Magus",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Telekinesis Land",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Sand King",
+    "abilities": [
+      {
+        "spell": "Burrowstrike",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "initiation",
+          "blink",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Sand Storm",
+        "tags": [
+          "invisibility",
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Stinger",
+        "tags": [
+          "physical_damage",
+          "damage_amp",
+          "waveclear",
+          "burst_damage",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Caustic Finale",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Epicenter",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "burst_damage",
+          "initiation",
+          "waveclear",
+          "channeling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Demon",
+    "abilities": [
+      {
+        "spell": "Disruption",
+        "tags": [
+          "banish",
+          "hard_save",
+          "illusions",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Disseminate",
+        "tags": [
+          "magical_damage",
+          "spell_amp",
+          "damage_over_time",
+          "initiation",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Shadow Poison",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "burst_damage",
+          "waveclear",
+          "lane_dominator",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Shadow Poison Release",
+        "tags": [
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Demonic Cleanse",
+        "tags": [
+          "basic_dispel",
+          "elusive",
+          "heal"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Demonic Purge",
+        "tags": [
+          "slow",
+          "basic_dispel",
+          "burst_damage",
+          "initiation",
+          "break"
+        ]
+      },
+      {
+        "spell": "Menace",
+        "tags": [
+          "passive",
+          "damage_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Fiend",
+    "abilities": [
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shadowraze",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Feast of Souls",
+        "tags": [
+          "passive",
+          "as_buff",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Presence of the Dark Lord",
+        "tags": [
+          "armor_reduction",
+          "aura",
+          "passive",
+          "lane_dominator",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Requiem of Souls",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Necromastery",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Shadow Shaman",
+    "abilities": [
+      {
+        "spell": "Ether Shock",
+        "tags": [
+          "magical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Hex",
+        "tags": [
+          "hex",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Shackles",
+        "tags": [
+          "stun",
+          "channeling",
+          "magical_damage",
+          "initiation",
+          "hp_regen_passive"
+        ]
+      },
+      {
+        "spell": "Fowl Play",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "hex"
+        ]
+      },
+      {
+        "spell": "Mass Serpent Ward",
+        "tags": [
+          "push_zoo",
+          "push_cooldown",
+          "waveclear"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Silencer",
+    "abilities": [
+      {
+        "spell": "Arcane Curse",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Glaives of Wisdom",
+        "tags": [
+          "physical_damage",
+          "mana_burn",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Last Word",
+        "tags": [
+          "silence",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Brain Drain",
+        "tags": [
+          "passive",
+          "mana_burn",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Global Silence",
+        "tags": [
+          "silence",
+          "bkb_pierce_aoe",
+          "initiation",
+          "global_presence"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Skywrath Mage",
+    "abilities": [
+      {
+        "spell": "Arcane Bolt",
+        "tags": [
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Concussive Shot",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "lane_dominator",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Ancient Seal",
+        "tags": [
+          "silence",
+          "spell_amp",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ruin and Restoration",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Mystic Flare",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "channeling",
+          "skillshot"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Slardar",
+    "abilities": [
+      {
+        "spell": "Guardian Sprint",
+        "tags": [
+          "ms_buff",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Slithereen Crush",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "waveclear",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Bash of the Deep",
+        "tags": [
+          "stun",
+          "passive",
+          "physical_damage"
+        ]
+      },
+      {
+        "spell": "Seaborn Sentinel",
+        "tags": [
+          "vision_scouting",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Corrosive Haze",
+        "tags": [
+          "armor_reduction",
+          "vision_scouting",
+          "lane_dominator",
+          "roshan_killer",
+          "early_rosh_armor",
+          "early_rosh_solo"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Slark",
+    "abilities": [
+      {
+        "spell": "Dark Pact",
+        "tags": [
+          "strong_dispel",
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Pounce",
+        "tags": [
+          "leash",
+          "dash",
+          "initiation",
+          "pseudo_root",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Saltwater Shiv",
+        "tags": [
+          "slow",
+          "physical_damage",
+          "lane_dominator",
+          "hp_regen_passive"
+        ]
+      },
+      {
+        "spell": "Depth Shroud",
+        "tags": [
+          "invisibility",
+          "hard_save",
+          "hp_regen_amp",
+          "heal"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Essence Shift",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Shadow Dance",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "heal",
+          "hp_regen_amp",
+          "invulnerability"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Snapfire",
+    "abilities": [
+      {
+        "spell": "Scatterblast",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Firesnap Cookie",
+        "tags": [
+          "stun",
+          "reposition_save",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lil' Shredder",
+        "tags": [
+          "physical_damage",
+          "armor_reduction",
+          "lane_dominator",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Gobble Up",
+        "tags": [
+          "hard_save",
+          "reposition_save"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Spit Out",
+        "tags": [
+          "stun",
+          "forced_movement",
+          "reposition_save"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Mortimer Kisses",
+        "tags": [
+          "burst_damage",
+          "magical_damage",
+          "slow",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Buckshot",
+        "tags": [
+          "physical_damage",
+          "stun",
+          "skillshot"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Sniper",
+    "abilities": [
+      {
+        "spell": "Shrapnel",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "waveclear",
+          "vision",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Headshot",
+        "tags": [
+          "slow",
+          "passive",
+          "physical_damage",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Take Aim",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "lane_dominator",
+          "vision"
+        ]
+      },
+      {
+        "spell": "Concussive Grenade",
+        "tags": [
+          "forced_movement",
+          "slow",
+          "counter_initiation",
+          "elusive"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Keen Scope",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Assassinate",
+        "tags": [
+          "burst_damage",
+          "physical_damage",
+          "magical_damage",
+          "slow"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Spectre",
+    "abilities": [
+      {
+        "spell": "Spectral Dagger",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "flying_movement",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Shadow Step",
+        "tags": [
+          "illusions",
+          "initiation",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Dispersion",
+        "tags": [
+          "damage_reduction",
+          "passive",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Reality",
+        "tags": [
+          "teleport"
+        ]
+      },
+      {
+        "spell": "Desolate",
+        "tags": [
+          "pure_damage",
+          "passive",
+          "late_game_scaling",
+          "lane_dominator",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Haunt",
+        "tags": [
+          "teleport",
+          "illusions",
+          "initiation",
+          "global_presence",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Spirit Breaker",
+    "abilities": [
+      {
+        "spell": "Charge of Darkness",
+        "tags": [
+          "stun",
+          "initiation",
+          "global_presence",
+          "elusive",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Bulldoze",
+        "tags": [
+          "ms_buff",
+          "damage_reduction",
+          "elusive",
+          "stat_resist"
+        ]
+      },
+      {
+        "spell": "Greater Bash",
+        "tags": [
+          "stun",
+          "forced_movement",
+          "passive",
+          "bkb_pierce_single",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Planar Pocket",
+        "tags": [
+          "hard_save",
+          "counter_initiation",
+          "damage_reduction",
+          "stat_resist"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Herd Mentality",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Nether Strike",
+        "tags": [
+          "stun",
+          "bkb_pierce_single",
+          "initiation",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Storm Spirit",
+    "abilities": [
+      {
+        "spell": "Static Remnant",
+        "tags": [
+          "magical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Electric Vortex",
+        "tags": [
+          "forced_movement",
+          "stun",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Overload",
+        "tags": [
+          "magical_damage",
+          "slow",
+          "passive",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Ball Lightning",
+        "tags": [
+          "dash",
+          "magical_damage",
+          "initiation",
+          "hard_save",
+          "elusive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Galvanized",
+        "tags": [
+          "passive",
+          "late_game_scaling",
+          "mana_restore"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Sven",
+    "abilities": [
+      {
+        "spell": "Storm Hammer",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Great Cleave",
+        "tags": [
+          "passive",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Warcry",
+        "tags": [
+          "ms_buff",
+          "armor_buff",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "God's Strength",
+        "tags": [
+          "damage_amp",
+          "late_game_scaling",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Vanquisher",
+        "tags": [
+          "passive",
+          "damage_amp"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Techies",
+    "abilities": [
+      {
+        "spell": "Sticky Bomb",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "slow",
+          "waveclear",
+          "lane_dominator",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Reactive Tazer",
+        "tags": [
+          "disarm",
+          "counter_initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Blast Off!",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "waveclear",
+          "burst_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Minefield Sign",
+        "tags": []
+      },
+      {
+        "spell": "Proximity Mines",
+        "tags": [
+          "burst_damage",
+          "waveclear",
+          "push_poke"
+        ]
+      },
+      {
+        "spell": "Detonate Tazer",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "hero": "Templar Assassin",
+    "abilities": [
+      {
+        "spell": "Refraction",
+        "tags": [
+          "damage_reduction",
+          "shield",
+          "evasion",
+          "waveclear",
+          "lane_dominator",
+          "late_game_scaling",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Meld",
+        "tags": [
+          "invisibility",
+          "armor_reduction",
+          "physical_damage",
+          "initiation",
+          "roshan_killer",
+          "early_rosh_armor",
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Psi Blades",
+        "tags": [
+          "pure_damage",
+          "passive",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Trap",
+        "tags": [
+          "slow"
+        ]
+      },
+      {
+        "spell": "Psionic Projection",
+        "tags": [
+          "teleport"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Psionic Trap",
+        "tags": [
+          "slow",
+          "vision_scouting",
+          "invisibility"
+        ]
+      },
+      {
+        "spell": "Third Eye",
+        "tags": [
+          "vision_scouting",
+          "passive",
+          "roshan_killer",
+          "early_rosh_solo"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Terrorblade",
+    "abilities": [
+      {
+        "spell": "Reflection",
+        "tags": [
+          "slow",
+          "illusions",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Conjure Image",
+        "tags": [
+          "illusions",
+          "waveclear",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Metamorphosis",
+        "tags": [
+          "damage_amp",
+          "as_buff",
+          "late_game_scaling",
+          "lane_dominator",
+          "push_cooldown"
+        ]
+      },
+      {
+        "spell": "Demon Zeal",
+        "tags": [
+          "ms_buff",
+          "as_buff",
+          "hp_regen_amp"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Terror Wave",
+        "tags": [
+          "fear",
+          "forced_movement",
+          "counter_initiation"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Sunder",
+        "tags": [
+          "damage_to_heal",
+          "hard_save",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Dark Unity",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Tidehunter",
+    "abilities": [
+      {
+        "spell": "Gush",
+        "tags": [
+          "slow",
+          "armor_reduction",
+          "magical_damage",
+          "skillshot",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Kraken Shell",
+        "tags": [
+          "basic_dispel",
+          "damage_reduction",
+          "passive",
+          "lane_dominator",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Anchor Smash",
+        "tags": [
+          "physical_damage",
+          "damage_debuff",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Dead in the Water",
+        "tags": [
+          "root",
+          "magical_damage"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Ravage",
+        "tags": [
+          "stun",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Blubber",
+        "tags": [
+          "strong_dispel"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Timbersaw",
+    "abilities": [
+      {
+        "spell": "Whirling Death",
+        "tags": [
+          "pure_damage",
+          "burst_damage",
+          "waveclear",
+          "initiation",
+          "lane_dominator",
+          "percentage_damage"
+        ]
+      },
+      {
+        "spell": "Timber Chain",
+        "tags": [
+          "dash",
+          "pure_damage",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Reactive Armor",
+        "tags": [
+          "passive",
+          "armor_buff",
+          "hp_regen_amp",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Flamethrower",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "waveclear",
+          "push_poke"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Chakram",
+        "tags": [
+          "pure_damage",
+          "slow",
+          "waveclear",
+          "burst_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Return Chakram",
+        "tags": []
+      },
+      {
+        "spell": "Shredder Return Chakram 2",
+        "tags": []
+      },
+      {
+        "spell": "Exposure Therapy",
+        "tags": [
+          "passive",
+          "magic_resistance"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Tinker",
+    "abilities": [
+      {
+        "spell": "Laser",
+        "tags": [
+          "pure_damage",
+          "evasion",
+          "burst_damage",
+          "lane_dominator",
+          "percentage_damage"
+        ]
+      },
+      {
+        "spell": "March of the Machines",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "push_poke"
+        ]
+      },
+      {
+        "spell": "Defense Matrix",
+        "tags": [
+          "basic_dispel",
+          "damage_reduction",
+          "lane_dominator",
+          "shield",
+          "reposition_save"
+        ]
+      },
+      {
+        "spell": "Warp Flare",
+        "tags": [
+          "forced_movement",
+          "root",
+          "slow",
+          "pseudo_root"
+        ]
+      },
+      {
+        "spell": "Keen Conveyance",
+        "tags": [
+          "teleport"
+        ]
+      },
+      {
+        "spell": "Rearm",
+        "tags": [
+          "channeling"
+        ]
+      },
+      {
+        "spell": "Eureka!",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Tiny",
+    "abilities": [
+      {
+        "spell": "Avalanche",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Toss",
+        "tags": [
+          "forced_movement",
+          "forced_reposition_enemy",
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Tree Grab",
+        "tags": [
+          "physical_damage",
+          "damage_amp",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Tree Volley",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "waveclear"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Craggy Exterior",
+        "tags": [
+          "armor_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Grow",
+        "tags": [
+          "late_game_scaling",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Tree Throw",
+        "tags": [
+          "physical_damage",
+          "burst_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Treant Protector",
+    "abilities": [
+      {
+        "spell": "Nature's Grasp",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Leech Seed",
+        "tags": [
+          "slow",
+          "root",
+          "heal",
+          "magical_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Living Armor",
+        "tags": [
+          "heal",
+          "armor_buff",
+          "shield",
+          "hp_regen_amp",
+          "push_poke",
+          "anti_push"
+        ]
+      },
+      {
+        "spell": "Eyes In The Forest",
+        "tags": [
+          "vision_scouting"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Nature's Guise",
+        "tags": [
+          "invisibility",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Overgrowth",
+        "tags": [
+          "root",
+          "bkb_pierce_aoe",
+          "magical_damage",
+          "damage_over_time",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Troll Warlord",
+    "abilities": [
+      {
+        "spell": "Battle Stance",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Whirling Axes (Ranged)",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Whirling Axes (Melee)",
+        "tags": [
+          "physical_damage",
+          "damage_debuff",
+          "lane_dominator",
+          "evasion"
+        ]
+      },
+      {
+        "spell": "Fervor",
+        "tags": [
+          "as_buff",
+          "passive",
+          "late_game_scaling",
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Berserker's Rage",
+        "tags": [
+          "ms_buff",
+          "armor_buff",
+          "as_buff",
+          "late_game_scaling",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Battle Trance",
+        "tags": [
+          "as_buff",
+          "lifesteal",
+          "bkb_pierce_aoe",
+          "hard_save",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Tusk",
+    "abilities": [
+      {
+        "spell": "Ice Shards",
+        "tags": [
+          "pseudo_root",
+          "magical_damage",
+          "lane_dominator",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Snowball",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "initiation",
+          "elusive",
+          "banish"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Walrus Kick",
+        "tags": [
+          "forced_movement",
+          "physical_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Bitter Chill",
+        "tags": [
+          "slow",
+          "damage_reduction",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Walrus PUNCH!",
+        "tags": [
+          "stun",
+          "physical_damage",
+          "burst_damage",
+          "initiation",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Launch Snowball",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Underlord",
+    "abilities": [
+      {
+        "spell": "Firestorm",
+        "tags": [
+          "magical_damage",
+          "percentage_damage",
+          "damage_over_time",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Pit of Malice",
+        "tags": [
+          "root",
+          "magical_damage",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Atrophy Aura",
+        "tags": [
+          "damage_reduction",
+          "damage_debuff",
+          "aura",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Invading Force",
+        "tags": [
+          "global_presence",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Fiend's Gate",
+        "tags": [
+          "teleport",
+          "global_presence",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Undying",
+    "abilities": [
+      {
+        "spell": "Decay",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "damage_debuff",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Soul Rip",
+        "tags": [
+          "magical_damage",
+          "heal",
+          "burst_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Tombstone",
+        "tags": [
+          "push_zoo",
+          "waveclear",
+          "hard_save",
+          "lane_dominator"
+        ],
+        "note": "requires aghanim shard to have hard_save"
+      },
+      {
+        "spell": "Ceaseless Dirge",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Flesh Golem",
+        "tags": [
+          "damage_amp",
+          "late_game_scaling",
+          "elusive"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Ursa",
+    "abilities": [
+      {
+        "spell": "Earthshock",
+        "tags": [
+          "slow",
+          "physical_damage",
+          "initiation",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Overpower",
+        "tags": [
+          "as_buff",
+          "early_rosh_solo",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Fury Swipes",
+        "tags": [
+          "physical_damage",
+          "damage_over_time",
+          "early_rosh_solo",
+          "late_game_scaling",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Maul",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "armor_reduction",
+          "early_rosh_armor"
+        ]
+      },
+      {
+        "spell": "Enrage",
+        "tags": [
+          "damage_reduction",
+          "strong_dispel",
+          "hard_save",
+          "elusive",
+          "stat_resist"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Vengeful Spirit",
+    "abilities": [
+      {
+        "spell": "Magic Missile",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "burst_damage",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Wave of Terror",
+        "tags": [
+          "armor_reduction",
+          "early_rosh_armor",
+          "lane_dominator",
+          "vision"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Vengeance Aura",
+        "tags": [
+          "damage_amp",
+          "aura",
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Retribution",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "counter_initiation",
+          "forced_reposition_enemy"
+        ]
+      },
+      {
+        "spell": "Nether Swap",
+        "tags": [
+          "forced_reposition_enemy",
+          "reposition_save",
+          "initiation",
+          "bkb_pierce_single"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Venomancer",
+    "abilities": [
+      {
+        "spell": "Venomous Gale",
+        "tags": [
+          "slow",
+          "damage_over_time",
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Poison Sting",
+        "tags": [
+          "slow",
+          "damage_over_time",
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Plague Ward",
+        "tags": [
+          "push_zoo",
+          "vision_scouting",
+          "waveclear"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Septic Shock",
+        "tags": [
+          "hp_regen_debuff",
+          "damage_over_time",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Noxious Plague",
+        "tags": [
+          "burst_damage",
+          "damage_over_time",
+          "magical_damage",
+          "bkb_pierce_aoe",
+          "initiation",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Viper",
+    "abilities": [
+      {
+        "spell": "Poison Attack",
+        "tags": [
+          "slow",
+          "damage_over_time",
+          "physical_damage",
+          "push_poke",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Nethertoxin",
+        "tags": [
+          "silence",
+          "damage_over_time",
+          "magical_damage",
+          "push_poke",
+          "early_rosh_armor",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Corrosive Skin",
+        "tags": [
+          "magic_resistance",
+          "damage_over_time",
+          "aura",
+          "passive",
+          "lane_dominator",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Nosedive",
+        "tags": [
+          "ms_buff",
+          "dash",
+          "initiation",
+          "early_rosh_armor",
+          "lane_dominator",
+          "elusive"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Predator",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Viper Strike",
+        "tags": [
+          "slow",
+          "damage_over_time",
+          "magical_damage",
+          "burst_damage",
+          "initiation",
+          "pseudo_root",
+          "bkb_pierce_single"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Visage",
+    "abilities": [
+      {
+        "spell": "Grave Chill",
+        "tags": [
+          "slow",
+          "as_buff",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Soul Assumption",
+        "tags": [
+          "magical_damage",
+          "burst_damage"
+        ]
+      },
+      {
+        "spell": "Gravekeeper's Cloak",
+        "tags": [
+          "damage_reduction",
+          "magic_resistance",
+          "armor_buff",
+          "passive"
+        ]
+      },
+      {
+        "spell": "Stone Form",
+        "tags": [
+          "stun",
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Silent as the Grave",
+        "tags": [
+          "invisibility"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Summon Familiars",
+        "tags": [
+          "push_zoo",
+          "vision_scouting",
+          "push_poke",
+          "initiation"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Stone Form",
+        "tags": [
+          "stun",
+          "hard_save",
+          "elusive"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Lurker",
+        "tags": [
+          "vision_scouting",
+          "push_zoo"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Void Spirit",
+    "abilities": [
+      {
+        "spell": "Aether Remnant",
+        "tags": [
+          "taunt",
+          "magical_damage",
+          "pseudo_root",
+          "waveclear",
+          "lane_dominator",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Dissimilate",
+        "tags": [
+          "hard_save",
+          "reposition_save",
+          "invulnerability",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Resonant Pulse",
+        "tags": [
+          "magical_damage",
+          "shield",
+          "lane_dominator",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Intrinsic Edge",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Astral Step",
+        "tags": [
+          "dash",
+          "initiation",
+          "elusive",
+          "burst_damage",
+          "physical_damage",
+          "magical_damage"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Warlock",
+    "abilities": [
+      {
+        "spell": "Fatal Bonds",
+        "tags": [
+          "magical_damage",
+          "damage_amp",
+          "initiation",
+          "waveclear",
+          "lane_dominator",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Shadow Word",
+        "tags": [
+          "heal",
+          "magical_damage",
+          "lane_dominator",
+          "damage_over_time"
+        ]
+      },
+      {
+        "spell": "Upheaval",
+        "tags": [
+          "slow",
+          "channeling",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Eldritch Summoning",
+        "tags": [
+          "passive",
+          "push_zoo"
+        ]
+      },
+      {
+        "spell": "Chaotic Offering",
+        "tags": [
+          "stun",
+          "push_zoo",
+          "bkb_pierce_aoe",
+          "initiation",
+          "waveclear",
+          "lane_dominator",
+          "push_cooldown",
+          "roshan_killer",
+          "early_rosh_solo"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Weaver",
+    "abilities": [
+      {
+        "spell": "The Swarm",
+        "tags": [
+          "damage_over_time",
+          "armor_reduction",
+          "lane_dominator",
+          "elusive",
+          "roshan_killer",
+          "early_rosh_armor",
+          "early_rosh_solo"
+        ]
+      },
+      {
+        "spell": "Shukuchi",
+        "tags": [
+          "invisibility",
+          "ms_buff",
+          "initiation",
+          "elusive",
+          "magical_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Geminate Attack",
+        "tags": [
+          "physical_damage",
+          "late_game_scaling",
+          "passive",
+          "as_buff",
+          "damage_amp"
+        ]
+      },
+      {
+        "spell": "Time Lapse",
+        "tags": [
+          "strong_dispel",
+          "hard_save",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Rewoven",
+        "tags": [
+          "passive",
+          "late_game_scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Windranger",
+    "abilities": [
+      {
+        "spell": "Shackleshot",
+        "tags": [
+          "root",
+          "stun",
+          "initiation",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Powershot",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "waveclear",
+          "skillshot"
+        ]
+      },
+      {
+        "spell": "Windrun",
+        "tags": [
+          "evasion",
+          "ms_buff",
+          "hard_save",
+          "elusive",
+          "basic_dispel"
+        ]
+      },
+      {
+        "spell": "Gale Force",
+        "tags": [
+          "forced_movement",
+          "forced_reposition_enemy",
+          "magical_damage",
+          "waveclear",
+          "initiation"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Focus Fire Cancel",
+        "tags": [
+          "passive"
+        ]
+      },
+      {
+        "spell": "Focus Fire",
+        "tags": [
+          "push_poke",
+          "burst_damage",
+          "as_buff",
+          "physical_damage"
+        ],
+        "note": "Auto-tagged via script"
+      },
+      {
+        "spell": "Easy Breezy",
+        "tags": [
+          "passive",
+          "ms_buff"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Winter Wyvern",
+    "abilities": [
+      {
+        "spell": "Arctic Burn",
+        "tags": [
+          "slow",
+          "damage_over_time",
+          "magical_damage",
+          "vision_scouting",
+          "flying_movement",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Splinter Blast",
+        "tags": [
+          "slow",
+          "magical_damage",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Cold Embrace",
+        "tags": [
+          "hard_save",
+          "magic_resistance",
+          "elusive"
+        ]
+      },
+      {
+        "spell": "Eldwurm Scholar",
+        "tags": [
+          "passive",
+          "spell_amp"
+        ]
+      },
+      {
+        "spell": "Winter's Curse",
+        "tags": [
+          "taunt",
+          "pseudo_root",
+          "initiation",
+          "counter_initiation",
+          "bkb_pierce_single"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Witch Doctor",
+    "abilities": [
+      {
+        "spell": "Paralyzing Cask",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "initiation",
+          "waveclear"
+        ]
+      },
+      {
+        "spell": "Voodoo Restoration",
+        "tags": [
+          "heal",
+          "hp_regen_amp",
+          "aura"
+        ]
+      },
+      {
+        "spell": "Maledict",
+        "tags": [
+          "magical_damage",
+          "damage_over_time",
+          "burst_damage",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Voodoo Switcheroo",
+        "tags": [
+          "reposition_save",
+          "initiation"
+        ],
+        "note": "requires aghanim's shard"
+      },
+      {
+        "spell": "Gris-Gris",
+        "tags": [
+          "passive",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Death Ward",
+        "tags": [
+          "burst_damage",
+          "physical_damage",
+          "bkb_pierce_aoe",
+          "channeling",
+          "initiation",
+          "lane_dominator"
+        ],
+        "note": "Auto-tagged via script"
+      }
+    ]
+  },
+  {
+    "hero": "Wraith King",
+    "abilities": [
+      {
+        "spell": "Wraithfire Blast",
+        "tags": [
+          "stun",
+          "magical_damage",
+          "slow",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Mortal Strike",
+        "tags": [
+          "physical_damage",
+          "burst_damage",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Vampiric Spirit",
+        "tags": [
+          "push_zoo",
+          "lifesteal",
+          "late_game_scaling",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Reincarnation",
+        "tags": [
+          "hard_save",
+          "elusive",
+          "slow",
+          "bkb_pierce_aoe"
+        ]
+      }
+    ]
+  },
+  {
+    "hero": "Zeus",
+    "abilities": [
+      {
+        "spell": "Arc Lightning",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Lightning Bolt",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "vision",
+          "initiation",
+          "lane_dominator"
+        ]
+      },
+      {
+        "spell": "Heavenly Jump",
+        "tags": [
+          "dash",
+          "initiation",
+          "elusive",
+          "ms_buff"
+        ]
+      },
+      {
+        "spell": "Nimbus",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "global_presence",
+          "initiation",
+          "waveclear"
+        ],
+        "note": "requires aghanim's scepter"
+      },
+      {
+        "spell": "Lightning Hands",
+        "tags": [
+          "magical_damage",
+          "waveclear",
+          "lane_dominator",
+          "late_game_scaling"
+        ]
+      },
+      {
+        "spell": "Thundergod's Wrath",
+        "tags": [
+          "magical_damage",
+          "burst_damage",
+          "global_presence",
+          "vision_scouting",
+          "bkb_pierce_aoe",
+          "initiation"
+        ]
+      },
+      {
+        "spell": "Static Field",
+        "tags": [
+          "passive",
+          "magical_damage"
+        ]
+      }
+    ]
+  }
+]

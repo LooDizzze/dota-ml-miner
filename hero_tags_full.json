@@ -3330,6 +3330,7 @@
       {
         "spell": "Fowl Play",
         "tags": [
+          "strong_dispel",
           "hard_save","elusive"
         ],
         "note": "Auto-tagged via script"
